@@ -1,0 +1,58 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\babel@toc {spanish}{}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\large CARACTERIZACI\'ON DE LA CARRERA GESTI\'ON SOCIOCULTURAL PARA EL DESARROLLO}{3}{chapter*.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\large VARIABLE 1: PERTINENCIA E IMPACTO SOCIAL}{4}{chapter*.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\large Proyección de la profesión hacia el territorio y/o el país }{4}{chapter*.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\large Satisfacción con la calidad de la formación }{4}{chapter*.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\large VARIABLE 2: PROFESORES Y PERSONAL AUXILIAR}{5}{chapter*.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\large Cualidades del educador }{5}{chapter*.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\large Composición del claustro }{5}{chapter*.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\large Calidad de las investigaciones y el posgrado en la carrera }{5}{chapter*.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\large Publicaciones de textos y/o artículos científicos en revistas referenciadas y participación en eventos nacionales e internacionales }{5}{chapter*.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\large Experiencia profesional en el área del conocimiento de la carrera }{5}{chapter*.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\large Personal no docente y administrativo }{5}{chapter*.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\large VARIABLE 3: ESTUDIANTES}{6}{chapter*.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\large Participación de los estudiantes como protagonistas de su proceso de formación }{6}{chapter*.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\large Dominio de los modos de actuación de la profesión }{6}{chapter*.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\large Eficiencia académica }{6}{chapter*.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\large Organización docente para el aprendizaje }{6}{chapter*.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\large VARIABLE 4: INFRAESTRUCTURA}{7}{chapter*.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\large Sistema integrado y progresivo de medios de enseñanza }{7}{chapter*.6}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\large Aseguramiento de la base material en el área de conocimientos de la carrera }{7}{chapter*.6}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\large Aseguramiento material para el empleo de la computación y las TICs en la carrera }{7}{chapter*.6}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\large Otras instalaciones de carácter docente utilizadas por la carrera }{7}{chapter*.6}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\large VARIABLE 5: CURR\'ICULO}{8}{chapter*.6}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\large Gestión curricular en la carrera y en el colectivo pedagógico }{8}{chapter*.7}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\large Estrategia educativa de la carrera }{8}{chapter*.7}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\large Relación entre los diferentes componentes del proceso docente – educativo en la carrera }{8}{chapter*.7}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\large Actividad investigativa laboral de los estudiantes }{8}{chapter*.7}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\large Estrategias curriculares }{8}{chapter*.7}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\large ANEXO}{9}{chapter*.7}%

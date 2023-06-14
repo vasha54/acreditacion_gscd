@@ -1,0 +1,291 @@
+% Usar papel de carta y fuente de 11 putos.
+\documentclass[12pt,paper=a4, spanish]{report}
+% Ajustar los margenes de la hoja (el izquierdo es mayor que el derecho para el encuadernado).
+\usepackage[tmargin=1in, rmargin=0.8in, bmargin=1in, lmargin=0.8in]{geometry}
+
+% Utilización de las codificaciones, latin1 y utf8 para windows y gnu/linux respectivamente.
+\usepackage[latin1,utf8]{inputenc}
+\usepackage{times}
+\usepackage[T1]{fontenc} 
+\usepackage[scaled]{uarial}
+%\usefont{T1}{arial}{m}{n}
+
+%\usepackage{ucs}
+
+% Utilizar el idioma español para la división de palabras en sílabas al final del renglón.
+\usepackage[spanish,activeacute]{babel}
+
+% El paquete graphicx maneja los graficos que se generan en el documento.
+\usepackage{graphicx}
+\usepackage{color}
+
+% El paquete acronym brinda la posibilidad de utilizar los acronimos de forma sencilla.
+\usepackage{acronym}
+
+% El paquete fancyhdr es usado para las cabeceras de página (headers).
+\usepackage{fancyhdr}
+\usepackage{fancybox}
+\setlength{\headheight}{15pt}
+\renewcommand{\footrulewidth}{0.4pt}
+
+
+
+% El paquete hyperref es usado para manejar lon vinculos a referencias en el documento dijital.
+\usepackage{hyperref}
+
+% Configurar el paquete hyperref para que pinte de color negro todos los vinculos.
+\hypersetup{colorlinks=true,
+	linkcolor=black,
+	citecolor=blue,
+	filecolor=black,
+	urlcolor=blue,
+	pdfauthor=  Luis Andr�s Valido Fajardo
+}
+
+% Usar interlineado de 1.5
+\renewcommand{\baselinestretch}{1.5}
+
+%Paquete para poner la primera línea de un párrafo más grande que las demás
+\usepackage{lettrine}
+\renewcommand{\LettrineFontHook}{\fontfamily{ppl}}%
+
+
+% Fuente clon de Arial
+% \renewcommand{\rmdefault}{phv}
+% \renewcommand{\sfdefault}{phv}
+
+%Para símbolos matemáticos
+\usepackage{amsmath}
+
+%Para poder escribir códigos de otro lenguajes sin problemas
+\usepackage{verbatim}
+
+%Paquete para hacer comentarios
+\usepackage[colorinlistoftodos]{todonotes}
+
+%Paquetes para la marca de agua
+\usepackage{draftcopy}
+\usepackage{type1cm}
+\usepackage{eso-pic}
+\usepackage{everypage}
+
+
+%Incluye la bibliografía en el índice
+\usepackage[nottoc]{tocbibind}
+
+%enumerar las figuras a partir del capitulo
+\usepackage{chngcntr}
+\counterwithin{figure}{chapter}
+\counterwithin{table}{chapter}
+
+% para formatear la presentaci�n de los capitulos
+\usepackage{titlesec}  
+ 
+
+%Paquetes para trabajo con tablas
+\usepackage{longtable}
+\usepackage{colortbl}
+\definecolor{Light}{gray}{.80}
+\definecolor{Dark}{gray}{.20}
+
+
+%Aquí se definen las extensiones de las imagenes que se van a usar
+\DeclareGraphicsExtensions{.jpg, .bmp, .png}
+
+
+
+
+\usepackage[backend=bibtex,
+style=authoryear,citestyle=authoryear-comp,natbib=true,
+sorting=nyvt,
+doi=true,
+isbn=true,
+url=true,
+firstinits=true,
+dashed=false,
+hyperref=true]{biblatex}
+
+
+\DeclareCiteCommand{\cite}
+{\usebibmacro{prenote}}
+{\usebibmacro{citeindex}%
+	\printtext[bibhyperref]{\usebibmacro{cite}}}
+{\multicitedelim}
+{\usebibmacro{postnote}}
+
+\DeclareCiteCommand*{\cite}
+{\usebibmacro{prenote}}
+{\usebibmacro{citeindex}%
+	\printtext[bibhyperref]{\usebibmacro{citeyear}}}
+{\multicitedelim}
+{\usebibmacro{postnote}}
+
+\DeclareCiteCommand{\parencite}[\mkbibparens]
+{\usebibmacro{prenote}}
+{\usebibmacro{citeindex}%
+	\printtext[bibhyperref]{\usebibmacro{cite}}}
+{\multicitedelim}
+{\usebibmacro{postnote}}
+
+\DeclareCiteCommand*{\parencite}[\mkbibparens]
+{\usebibmacro{prenote}}
+{\usebibmacro{citeindex}%
+	\printtext[bibhyperref]{\usebibmacro{citeyear}}}
+{\multicitedelim}
+{\usebibmacro{postnote}}
+
+\DeclareCiteCommand{\footcite}[\mkbibfootnote]
+{\usebibmacro{prenote}}
+{\usebibmacro{citeindex}%
+	\printtext[bibhyperref]{ \usebibmacro{cite}}}
+{\multicitedelim}
+{\usebibmacro{postnote}}
+
+\DeclareCiteCommand{\footcitetext}[\mkbibfootnotetext]
+{\usebibmacro{prenote}}
+{\usebibmacro{citeindex}%
+	\printtext[bibhyperref]{\usebibmacro{cite}}}
+{\multicitedelim}
+{\usebibmacro{postnote}}
+
+\DeclareCiteCommand{\textcite}
+{\boolfalse{cbx:parens}}
+{\usebibmacro{citeindex}%
+	\printtext[bibhyperref]{\usebibmacro{textcite}}}
+{\ifbool{cbx:parens}
+	{\bibcloseparen\global\boolfalse{cbx:parens}}
+	{}%
+	\multicitedelim}
+{\usebibmacro{textcite:postnote}}
+
+
+%CONFIGURACIONES PARA LA MARCA DE AGUA	
+\newenvironment{water}{\AddEverypageHook{\waterb}}{\AddThispageHook{\waterb}\AddEverypageHook{\watere}}
+
+\makeatletter
+\newcommand{\waterb}{
+\AddToShipoutPicture*{%
+            \setlength{\@tempdimb}{.5\paperwidth}%
+            \setlength{\@tempdimc}{.5\paperheight}%
+            \setlength{\unitlength}{1pt}%
+            \put(\strip@pt\@tempdimb,\strip@pt\@tempdimc){%
+        \makebox(0,0){\rotatebox{45}{\textcolor[gray]{0.97}%
+        {\fontsize{6cm}{6cm}\selectfont{}}}}%
+            }%
+}}
+\makeatother
+
+\makeatletter
+\newcommand{\watere}{
+\AddToShipoutPicture*{%
+            \setlength{\@tempdimb}{.5\paperwidth}%
+            \setlength{\@tempdimc}{.5\paperheight}%
+            \setlength{\unitlength}{1pt}%
+            \put(\strip@pt\@tempdimb,\strip@pt\@tempdimc){%
+        \makebox(0,0){\rotatebox{45}{\textcolor[gray!10]{1}%
+        {\fontsize{6cm}{6cm}\selectfont{DRAFT}}}}%
+            }%
+}}
+\makeatother
+
+% Incluir el fichero donde se definen o redefinen algunos comandos
+\input{configuracion}
+
+\begin{document}
+
+\begin{titlepage}
+    \begin{center}
+
+%   Logo de la universidad
+    \banner
+
+    %\vspace*{\fill}
+%   Titulo de la tesis:
+    \titulo
+
+%   Tipo de tesis:
+    \begin{figure}[h!]
+    	\centering
+    	\includegraphics[width=1.0\linewidth]{img/banner}
+    	\label{fig:banner}
+    \end{figure}
+    
+
+    \vspace*{\fill}
+%   Lugar y fecha de confección de la tesis
+    \ciudadFecha
+
+    \end{center}
+\end{titlepage}
+
+
+		%Para renombrar los nombres de table y figure por tabla y figura respectivamente.
+  
+
+
+    
+    
+  
+    \AddToShipoutPicture{\BackgroundPic}
+    \tableofcontents % Índice general
+    \pagebreak
+    
+   \pagestyle{fancy}
+   \fancyhead[LO,CE]{\includegraphics[scale=0.27]{img/logo_umcc2.png} \begin{minipage}{0.5\textwidth} % 60% de la p�g
+   		\begin{flushleft}
+   			\vspace*{-0.4in}
+   			\centering Departamento de Estudios SocioCulturales\\
+   			\centering Carrera de Gesti\'on Sociocultural para el Desarrollo
+   	\end{flushleft}\end{minipage}}
+   \fancyhead[RO,CE]{\includegraphics[scale=0.013]{img/logo_facultad_fcsh.png}
+   		\begin{minipage}{0.3\textwidth} % 60% de la p�g
+   			\begin{flushright}
+   				\vspace*{-0.4in}
+   				\centering Autopista a Varadero 3 $\frac{1}{2}$ Km \\
+   				\centering Matanzas, Cuba
+   		\end{flushright}\end{minipage}
+	}
+   \fancyfoot[LO,CE]{}
+   \fancyfoot[RO,CE]{}
+   \fancypagestyle{plain}{\pagestyle{fancy}}
+   
+   
+   \addcontentsline{toc}{chapter}{\large CARACTERIZACI\'ON DE LA CARRERA GESTI\'ON SOCIOCULTURAL PARA EL DESARROLLO} 
+   \chapter*{CARACTERIZACI\'ON DE LA CARRERA GESTI\'ON SOCIOCULTURAL PARA EL DESARROLL}
+   \input{tex_files/caracterizacion}
+    \pagebreak
+   
+   \addcontentsline{toc}{chapter}{\large VARIABLE 1: PERTINENCIA E IMPACTO SOCIAL}
+   \chapter*{VARIABLE 1: PERTINENCIA E IMPACTO SOCIAL}
+   \input{tex_files/variable_1}
+   \pagebreak
+   
+   \addcontentsline{toc}{chapter}{\large VARIABLE 2: PROFESORES Y PERSONAL AUXILIAR}
+   \chapter*{VARIABLE 2: PROFESORES Y PERSONAL AUXILIAR}
+   \input{tex_files/variable_2}
+    \pagebreak
+   
+   \addcontentsline{toc}{chapter}{\large VARIABLE 3: ESTUDIANTES}
+   \chapter*{VARIABLE 3: ESTUDIANTES}
+   \input{tex_files/variable_3}
+    \pagebreak
+   
+   \addcontentsline{toc}{chapter}{\large VARIABLE 4: INFRAESTRUCTURA}
+   \chapter*{VARIABLE 4: INFRAESTRUCTURA}
+   \input{tex_files/variable_4}
+    \pagebreak
+   
+   \addcontentsline{toc}{chapter}{\large VARIABLE 5: CURR\'ICULO}
+   \chapter*{VARIABLE 5: CURR\'ICULO}
+   \input{tex_files/variable_5}
+    \pagebreak
+  
+  \addcontentsline{toc}{chapter}{\large ANEXO}
+  \chapter*{ANEXO}
+  \input{tex_files/anexo}
+  \pagebreak
+    
+    
+   
+
+\end{document}
