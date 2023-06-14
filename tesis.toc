@@ -1,0 +1,94 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\babel@toc {spanish}{}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Introducción}{1}{chapter*.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {1}Fundamentación Teórica}{7}{chapter.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.1}Grupo de Creación Artística Vigía}{7}{section.1.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.2}Enfoques existentes}{7}{section.1.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.2.1}Sistema de Gestión Integral ASSETS}{7}{subsection.1.2.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.2.2}Sistema Integral Económico Administrativo RODAS XXI}{8}{subsection.1.2.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.2.3}Sistema de gestión económica para el Área de Economía de la Dirección de Gestión Tecnológica de la UCI }{8}{subsection.1.2.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.2.4}Versat-Sarasola}{8}{subsection.1.2.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.2.5}Herramienta de apoyo a la gestión ECONÓMICA financiera de trabajadores de la Universidad de Cienfuegos }{9}{subsection.1.2.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.2.6}ERP para la gestión de la información económica de los productos cárnicos para la UEB Tomás Rojas Rodríguez de la provincia de Camagüey}{9}{subsection.1.2.6}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.3}Metodologías para el desarrollo de software}{10}{section.1.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.3.1}Metodologías ágiles de desarrollo}{12}{subsection.1.3.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.3.2}Elección de la metodología de desarrollo de software}{12}{subsection.1.3.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.4}Tecnologías y herramientas a utilizar}{13}{section.1.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.4.1}Lenguaje de modelado}{13}{subsection.1.4.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {1.4.1.1} \em {Elección del lenguaje de modelado}}{13}{subsubsection.1.4.1.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\large Elección del lenguaje de modelado}{13}{subsubsection.1.4.1.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.4.2}Herramienta CASE}{14}{subsection.1.4.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {1.4.2.1}{\em Visual Paradigm}}{14}{subsubsection.1.4.2.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {1.4.2.2}{\em Rational Rose}}{14}{subsubsection.1.4.2.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {1.4.2.3}{\em Elección de la herramienta CASE}}{15}{subsubsection.1.4.2.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.4.3}Framewrok de desarrollo}{15}{subsection.1.4.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {1.4.3.1}Django}{16}{subsubsection.1.4.3.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {1.4.3.2}Laravel}{16}{subsubsection.1.4.3.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {1.4.3.3}Symfony}{17}{subsubsection.1.4.3.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {1.4.3.4}ASP.NET}{17}{subsubsection.1.4.3.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {1.4.3.5}Node.js}{18}{subsubsection.1.4.3.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {1.4.3.6}Elección del framework de desarrollo}{18}{subsubsection.1.4.3.6}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.4.4}Entornos de desarrollo}{18}{subsection.1.4.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {1.4.4.1}\em {Microsoft Visual Studio}}{19}{subsubsection.1.4.4.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {1.4.4.2}\em {PyCharm}}{19}{subsubsection.1.4.4.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {1.4.4.3}\em {Visual Studio Code}}{20}{subsubsection.1.4.4.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {1.4.4.4}\em {Elección del entorno de desarrollo}}{20}{subsubsection.1.4.4.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.4.5}Lenguajes de programación}{21}{subsection.1.4.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {1.4.5.1}\em {Python}}{21}{subsubsection.1.4.5.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {1.4.5.2}\em {HTML}}{21}{subsubsection.1.4.5.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {1.4.5.3}\em {CSS}}{22}{subsubsection.1.4.5.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {1.4.5.4}\em {W3CSS}}{22}{subsubsection.1.4.5.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {1.4.5.5}\em {JavaScript}}{23}{subsubsection.1.4.5.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.4.6}Servidor Web}{23}{subsection.1.4.6}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.4.7}Sistema gestor de base de datos}{23}{subsection.1.4.7}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {1.4.7.1}Elección del sistema gestor de base de datos}{23}{subsubsection.1.4.7.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {2}Análisis y diseño del sistema}{24}{chapter.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.1}Requisitos funcionales}{24}{section.2.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.2}Requisitos no funcionales}{31}{section.2.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\large Referencias Bibliogr\'aficas}{34}{chapter*.6}%

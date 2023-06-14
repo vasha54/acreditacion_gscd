@@ -1,0 +1,3 @@
+En el archivo "configuracion" es donde se le pondrán los nombres de los autores, 
+el número de la facultad, el título del trabajo de diploma, todos los datos que lleva 
+la tesis y otros que el autor quiera definir globalmente.

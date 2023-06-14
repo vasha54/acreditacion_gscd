@@ -1,0 +1,74 @@
+This is BibTeX, Version 0.99d (TeX Live 2020/Debian)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: tesis.aux
+The style file: biblatex.bst
+Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
+Reallocated global_strs (elt_size=200001) to 20 items from 10.
+Reallocated glb_str_end (elt_size=4) to 20 items from 10.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Database file #1: tesis-blx.bib
+Database file #2: bib/biblio.bib
+Warning--entry type for "frias2012sistema" isn't style-file defined
+--line 119 of file bib/biblio.bib
+Warning--entry type for "puentes2008sistema" isn't style-file defined
+--line 128 of file bib/biblio.bib
+Warning--entry type for "sanchez2013sistema" isn't style-file defined
+--line 135 of file bib/biblio.bib
+Warning--entry type for "imagexp" isn't style-file defined
+--line 744 of file bib/biblio.bib
+Biblatex version: 3.16
+Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+You've used 32 entries,
+            6393 wiz_defined-function locations,
+            1352 strings with 14398 characters,
+and the built_in function-call counts, 193510 in all, are:
+= -- 13789
+> -- 4053
+< -- 1388
++ -- 4020
+- -- 1562
+* -- 13820
+:= -- 18148
+add.period$ -- 0
+call.type$ -- 32
+change.case$ -- 895
+chr.to.int$ -- 66
+cite$ -- 62
+duplicate$ -- 18049
+empty$ -- 18413
+format.name$ -- 1815
+if$ -- 41609
+int.to.chr$ -- 0
+int.to.str$ -- 78
+missing$ -- 0
+newline$ -- 900
+num.names$ -- 1881
+pop$ -- 10634
+preamble$ -- 1
+purify$ -- 1010
+quote$ -- 0
+skip$ -- 6959
+stack$ -- 0
+substring$ -- 24565
+swap$ -- 4941
+text.length$ -- 873
+text.prefix$ -- 33
+top$ -- 1
+type$ -- 1045
+warning$ -- 0
+while$ -- 1999
+width$ -- 0
+write$ -- 869
+(There were 4 warnings)
