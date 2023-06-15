@@ -1,0 +1,929 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\datalist[entry]{nyvt/global//global/global}
+  \entry{assets}{online}{}
+    \name{author}{1}{}{%
+      {{hash=A}{%
+         family={ASSETS},
+         familyi={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{A1}
+    \strng{fullhash}{A1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2006}
+    \field{labeldatesource}{}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \field{note}{Consultado: 2022-06-01}
+    \field{title}{ASSETS: Sistema de Gestión Integral}
+    \verb{url}
+    \verb http://www.assets.co.cu/
+    \endverb
+    \field{year}{2006}
+  \endentry
+
+  \entry{beck2002explicacion}{book}{}
+    \name{author}{2}{}{%
+      {{hash=BK}{%
+         family={Beck},
+         familyi={B\bibinitperiod},
+         given={K.},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=MJ}{%
+         family={Molina},
+         familyi={M\bibinitperiod},
+         given={J.G.},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Pearson Educaci{\'o}n}%
+    }
+    \strng{namehash}{BKMJ1}
+    \strng{fullhash}{BKMJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2002}
+    \field{labeldatesource}{}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{isbn}{9788478290550}
+    \field{series}{Programaci{\'o}n extrema}
+    \field{title}{Una explicaci\'on de la programaci\'on extrema: aceptar el
+  cambio}
+    \field{year}{2002}
+  \endentry
+
+  \entry{beck2001planning}{book}{}
+    \name{author}{3}{}{%
+      {{hash=BK}{%
+         family={Beck},
+         familyi={B\bibinitperiod},
+         given={Kent},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=HM}{%
+         family={Hendrickson},
+         familyi={H\bibinitperiod},
+         given={Mike},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=FM}{%
+         family={Fowler},
+         familyi={F\bibinitperiod},
+         given={Martin},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Addison-Wesley Professional}%
+    }
+    \strng{namehash}{BKHMFM1}
+    \strng{fullhash}{BKHMFM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2001}
+    \field{labeldatesource}{}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{title}{Planning extreme programming}
+    \field{year}{2001}
+  \endentry
+
+  \entry{cabrera2019desarrollo}{thesis}{}
+    \name{author}{1}{}{%
+      {{hash=CLPA}{%
+         family={Cabrera\bibnamedelima Le{\'o}n},
+         familyi={C\bibinitperiod\bibinitdelim L\bibinitperiod},
+         given={Pa{\'u}l\bibnamedelima Alexander},
+         giveni={P\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{CLPA1}
+    \strng{fullhash}{CLPA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2019}
+    \field{labeldatesource}{}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{title}{Desarrollo de una aplicaci{\'o}n web utilizando el Framework
+  Laravel para el control de existencias de los activos fijos de la
+  Federaci{\'o}n Deportiva de Morona Santiago.}
+    \list{institution}{1}{%
+      {Escuela Superior Polit{\'e}cnica de Chimborazo}%
+    }
+    \field{type}{{B.S.} thesis}
+    \field{year}{2019}
+  \endentry
+
+  \entry{cano}{online}{}
+    \name{author}{1}{}{%
+      {{hash=CHI}{%
+         family={Cano\bibnamedelima Hidalgo},
+         familyi={C\bibinitperiod\bibinitdelim H\bibinitperiod},
+         given={I.},
+         giveni={I\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{CHI1}
+    \strng{fullhash}{CHI1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2006}
+    \field{labeldatesource}{}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{note}{Consultado: 2022-06-01}
+    \field{title}{Sistema de gestión Integral ASSETS-NS: garantía de
+  seguridad total}
+    \verb{url}
+    \verb http://www.cadenagramonte.cubaweb.cu/ciencia/sistemas_gestion_integra
+    \verb l.asp
+    \endverb
+    \field{year}{2006}
+  \endentry
+
+  \entry{caraballo2020herramienta}{article}{}
+    \name{author}{2}{}{%
+      {{hash=CAB}{%
+         family={Caraballo},
+         familyi={C\bibinitperiod},
+         given={Amanda\bibnamedelima Bacallao},
+         giveni={A\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+      {{hash=GOLM}{%
+         family={Gonz{\'a}lez},
+         familyi={G\bibinitperiod},
+         given={Oscar Luis\bibnamedelima Mu{\~n}oz},
+         giveni={O\bibinitperiod\bibinitdelim L\bibinitperiod\bibinitdelim
+  M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{CABGOLM1}
+    \strng{fullhash}{CABGOLM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2020}
+    \field{labeldatesource}{}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{number}{1}
+    \field{pages}{39\bibrangedash 45}
+    \field{title}{Herramienta de apoyo a la gesti{\'o}n econ{\'o}mica
+  financiera de trabajadores de la Universidad de Cienfuegos}
+    \field{volume}{3}
+    \field{journaltitle}{Sociedad \& Tecnolog{\'\i}a}
+    \field{year}{2020}
+  \endentry
+
+  \entry{cardozzo2016desarrollo}{book}{}
+    \name{author}{2}{}{%
+      {{hash=CD}{%
+         family={Cardozzo},
+         familyi={C\bibinitperiod},
+         given={D.R.},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=AI}{%
+         family={Academy},
+         familyi={A\bibinitperiod},
+         given={I.T.C.},
+         giveni={I\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {CreateSpace Independent Publishing Platform}%
+    }
+    \strng{namehash}{CDAI1}
+    \strng{fullhash}{CDAI1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2016}
+    \field{labeldatesource}{}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{isbn}{9781530088614}
+    \field{title}{Desarrollo de Software: Requisitos, Estimaciones y
+  An{\'a}lisis. 2 Edici{\'o}n}
+    \field{year}{2016}
+  \endentry
+
+  \entry{rodas}{online}{}
+    \name{author}{1}{}{%
+      {{hash=C}{%
+         family={CITMATEL},
+         familyi={C\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{C1}
+    \strng{fullhash}{C1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2020}
+    \field{labeldatesource}{}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{note}{Consultado: 2022-05-31}
+    \field{title}{Qué es RODAS XXI? - Rodas XXI. ¿Qué es RODAS XXI? Sistema
+  Integral Económico Administrativo}
+    \verb{url}
+    \verb www.rodasxxi.cu/rodas-xxi/
+    \endverb
+    \field{year}{2020}
+  \endentry
+
+  \entry{versatsarasola2016}{manual}{}
+    \name{author}{2}{}{%
+      {{hash=DSIVCD}{%
+         family={DATAZUAR.},
+         familyi={D\bibinitperiod},
+         given={Servicios Informáticos Villa Clara.\bibnamedelima División},
+         giveni={S\bibinitperiod\bibinitdelim I\bibinitperiod\bibinitdelim
+  V\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+      {{hash=dSTIAE}{%
+         prefix={de},
+         prefixi={d\bibinitperiod},
+         family={Servicios Técnicos Industriales\bibnamedelima AZCUBA},
+         familyi={S\bibinitperiod\bibinitdelim T\bibinitperiod\bibinitdelim
+  I\bibinitperiod\bibinitdelim A\bibinitperiod},
+         given={Empresa},
+         giveni={E\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{DSIVCDSTIAEd1}
+    \strng{fullhash}{DSIVCDSTIAEd1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2016}
+    \field{labeldatesource}{}
+    \field{sortinit}{D}
+    \field{sortinithash}{D}
+    \field{title}{Manual de Usuario Versat Sarasola 2.8.0: Configuración}
+    \field{year}{2016}
+  \endentry
+
+  \entry{diaz2019estado}{article}{}
+    \name{author}{2}{}{%
+      {{hash=DPMP}{%
+         family={D{\'\i}az},
+         familyi={D\bibinitperiod},
+         given={Pedro M\bibnamedelima Puig},
+         giveni={P\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim
+  P\bibinitperiod},
+      }}%
+      {{hash=CYG}{%
+         family={Caballero},
+         familyi={C\bibinitperiod},
+         given={Yanisleidi\bibnamedelima Gonz{\'a}lez},
+         giveni={Y\bibinitperiod\bibinitdelim G\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{DPMPCYG1}
+    \strng{fullhash}{DPMPCYG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2019}
+    \field{labeldatesource}{}
+    \field{sortinit}{D}
+    \field{sortinithash}{D}
+    \field{number}{4}
+    \field{pages}{43\bibrangedash 50}
+    \field{title}{Estado de las herramientas para la auditor{\'\i}a y control
+  de los Activos Fijos Tangibles}
+    \field{volume}{12}
+    \field{journaltitle}{Serie Cient{\'\i}fica de la Universidad de las
+  Ciencias Inform{\'a}ticas}
+    \field{year}{2019}
+  \endentry
+
+  \entry{espinosa2021analisis}{article}{}
+    \name{author}{1}{}{%
+      {{hash=EHR}{%
+         family={Espinosa-Hurtado},
+         familyi={E\bibinithyphendelim H\bibinitperiod},
+         given={Raquel},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{EHR1}
+    \strng{fullhash}{EHR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2021}
+    \field{labeldatesource}{}
+    \field{sortinit}{E}
+    \field{sortinithash}{E}
+    \field{number}{2}
+    \field{pages}{133\bibrangedash 141}
+    \field{title}{An{\'a}lisis comparativo para la evaluaci{\'o}n de frameworks
+  usados en el desarrollo de aplicaciones web}
+    \field{volume}{11}
+    \field{journaltitle}{CEDAMAZ}
+    \field{year}{2021}
+  \endentry
+
+  \entry{css}{online}{}
+    \name{author}{1}{}{%
+      {{hash=FM}{%
+         family={Foundation},
+         familyi={F\bibinitperiod},
+         given={Mozilla},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{FM1}
+    \strng{fullhash}{FM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2022}
+    \field{extradate}{1}
+    \field{labeldatesource}{}
+    \field{sortinit}{F}
+    \field{sortinithash}{F}
+    \field{note}{Consultado: 2022-06-24}
+    \field{title}{CSS: Cascading Style Sheets}
+    \verb{url}
+    \verb https://developer.mozilla.org/en-US/docs/Web/CSS
+    \endverb
+    \field{year}{2022}
+  \endentry
+
+  \entry{python}{online}{}
+    \name{author}{1}{}{%
+      {{hash=FPS}{%
+         family={Foundation},
+         familyi={F\bibinitperiod},
+         given={Python\bibnamedelima Software},
+         giveni={P\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{FPS1}
+    \strng{fullhash}{FPS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2022}
+    \field{extradate}{2}
+    \field{labeldatesource}{}
+    \field{sortinit}{F}
+    \field{sortinithash}{F}
+    \field{note}{Consultado: 2022-06-24}
+    \field{title}{What is Python? Executive Summary}
+    \verb{url}
+    \verb https://www.python.org/doc/essays/blurb/
+    \endverb
+    \field{year}{2022}
+  \endentry
+
+  \entry{frias2012sistema}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=FC}{%
+         family={Frias},
+         familyi={F\bibinitperiod},
+         given={C},
+         giveni={C},
+      }}%
+    }
+    \strng{namehash}{FC1}
+    \strng{fullhash}{FC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2012}
+    \field{labeldatesource}{}
+    \field{sortinit}{F}
+    \field{sortinithash}{F}
+    \field{title}{Desarrollo de una librer{\'i}a de componentes de interfaz
+  gr{\'a}fica de usuario basada en Swing Application Framework y AWT Framework
+  para el desarrollo de la capa de presentaci{\'o}n en aplicaciones de software
+  de escritorio}
+    \list{institution}{1}{%
+      {La Habana: Universidad de las Ciencias Inform{\'a}ticas (UCI).}%
+    }
+    \field{type}{{B.S.} thesis}
+    \field{year}{2012}
+  \endentry
+
+  \entry{gomez2018desarrollo}{thesis}{}
+    \name{author}{1}{}{%
+      {{hash=GGDE}{%
+         family={G{\'o}mez\bibnamedelima Garc{\'\i}a},
+         familyi={G\bibinitperiod\bibinitdelim G\bibinitperiod},
+         given={Diana\bibnamedelima Elizabeth},
+         giveni={D\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{GGDE1}
+    \strng{fullhash}{GGDE1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2018}
+    \field{labeldatesource}{}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \field{title}{Desarrollo del sistema de requisiciones para la empresa
+  hidroel{\'e}ctrica Abanico SA Aplicando el entorno de programaci{\'o}n Node.
+  js}
+    \list{institution}{1}{%
+      {Escuela Superior Polit{\'e}cnica de Chimborazo}%
+    }
+    \field{type}{{B.S.} thesis}
+    \field{year}{2018}
+  \endentry
+
+  \entry{imagexp}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=HYC}{%
+         family={Hechavarría},
+         familyi={H\bibinitperiod},
+         given={Yadriel\bibnamedelima Cuesta},
+         giveni={Y\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{HYC1}
+    \strng{fullhash}{HYC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2015}
+    \field{labeldatesource}{}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \field{title}{Sistema para la gesti\'on de la informaci\'on de los
+  Expedientes T\'ecnicos en el Centro de Inform\'atica Industrial}
+    \list{institution}{1}{%
+      {Universidad de las Ciencias Inform\'aticas}%
+    }
+    \field{type}{Trabajo de diploma para optar por el t\'itulo de Ingeniero en
+  Ciencias Inform\'aticas. La Habana (Cuba). Universidad de las Ciencias
+  Inform\'aticas}
+    \field{year}{2015}
+  \endentry
+
+  \entry{hernandez2013mercado}{thesis}{}
+    \name{author}{1}{}{%
+      {{hash=HCL}{%
+         family={Hern{\'a}ndez\bibnamedelima C{\'a}rdenas},
+         familyi={H\bibinitperiod\bibinitdelim C\bibinitperiod},
+         given={Lisbet},
+         giveni={L\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{HCL1}
+    \strng{fullhash}{HCL1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2013}
+    \field{labeldatesource}{}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \field{title}{Mercado de Datos para el proceso de inventario del Sistema de
+  Gesti{\'o}n Contable VERSAT Sarasola}
+    \list{institution}{1}{%
+      {Universidad Central “Marta Abreu” de Las Villas}%
+    }
+    \field{type}{phdthesis}
+    \field{year}{2013}
+  \endentry
+
+  \entry{jacobson2021unified}{article}{}
+    \name{author}{2}{}{%
+      {{hash=JL}{%
+         family={Jacobson},
+         familyi={J\bibinitperiod},
+         given={Lvar},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=BJRG}{%
+         family={Booch},
+         familyi={B\bibinitperiod},
+         given={James Rumbaugh\bibnamedelima Grady},
+         giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim
+  G\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{JLBJRG1}
+    \strng{fullhash}{JLBJRG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2021}
+    \field{labeldatesource}{}
+    \field{sortinit}{J}
+    \field{sortinithash}{J}
+    \field{title}{The unified modeling language reference manual}
+    \field{year}{2021}
+  \endentry
+
+  \entry{jimenez2016uf2406}{book}{}
+    \name{author}{1}{}{%
+      {{hash=JJ}{%
+         family={Jim{\'e}nez},
+         familyi={J\bibinitperiod},
+         given={J.L.{\'A}.},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Editorial Elearning, S.L.}%
+    }
+    \strng{namehash}{JJ1}
+    \strng{fullhash}{JJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2016}
+    \field{labeldatesource}{}
+    \field{sortinit}{J}
+    \field{sortinithash}{J}
+    \field{title}{UF2406 - El cliclo de vida del desarrollo de aplicaciones}
+    \field{year}{2016}
+  \endentry
+
+  \entry{montero2018metodologias}{article}{}
+    \name{author}{3}{}{%
+      {{hash=MBM}{%
+         family={Montero},
+         familyi={M\bibinitperiod},
+         given={Bryan\bibnamedelima Molina},
+         giveni={B\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=CHV}{%
+         family={Cevallos},
+         familyi={C\bibinitperiod},
+         given={Harry\bibnamedelima Vite},
+         giveni={H\bibinitperiod\bibinitdelim V\bibinitperiod},
+      }}%
+      {{hash=CJD}{%
+         family={Cuesta},
+         familyi={C\bibinitperiod},
+         given={Jefferson\bibnamedelima D{\'a}vila},
+         giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MBMCHVCJD1}
+    \strng{fullhash}{MBMCHVCJD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2018}
+    \field{labeldatesource}{}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{number}{17}
+    \field{pages}{114\bibrangedash 121}
+    \field{title}{Metodolog{\'\i}as {\'a}giles frente a las tradicionales en el
+  proceso de desarrollo de software}
+    \field{volume}{2}
+    \field{journaltitle}{Espirales revista multidisciplinaria de
+  investigaci{\'o}n}
+    \field{year}{2018}
+  \endentry
+
+  \entry{munnoz2012aprendiendo}{book}{}
+    \name{author}{1}{}{%
+      {{hash=MV}{%
+         family={Mu{\~n}oz},
+         familyi={M\bibinitperiod},
+         given={V.J.E.},
+         giveni={V\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Vicente Javier Eslava Mu{\~n}oz}%
+    }
+    \strng{namehash}{MV1}
+    \strng{fullhash}{MV1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2012}
+    \field{labeldatesource}{}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{isbn}{9788468610610}
+    \field{title}{Aprendiendo a programar paso a paso con C}
+    \field{year}{2012}
+  \endentry
+
+  \entry{oscar2013visual}{book}{}
+    \name{author}{1}{}{%
+      {{hash=OS}{%
+         family={Oscar},
+         familyi={O\bibinitperiod},
+         given={S.},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {International Book Market Service Limited}%
+    }
+    \strng{namehash}{OS1}
+    \strng{fullhash}{OS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2013}
+    \field{labeldatesource}{}
+    \field{sortinit}{O}
+    \field{sortinithash}{O}
+    \field{isbn}{9786139166534}
+    \field{title}{Visual Paradigm for Uml}
+    \field{year}{2013}
+  \endentry
+
+  \entry{vpsuite}{online}{}
+    \name{author}{1}{}{%
+      {{hash=PV}{%
+         family={Paradigm},
+         familyi={P\bibinitperiod},
+         given={Visual},
+         giveni={V\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{PV1}
+    \strng{fullhash}{PV1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2022}
+    \field{labeldatesource}{}
+    \field{sortinit}{P}
+    \field{sortinithash}{P}
+    \field{note}{Consultado: 2022-06-24}
+    \field{title}{Visual Paradigm Product Overview}
+    \verb{url}
+    \verb https://www.visual-paradigm.com/support/documents/vpuserguide/12/13/5
+    \verb 963_visualparadi.html
+    \endverb
+    \field{year}{2022}
+  \endentry
+
+  \entry{parra2018uf2218}{book}{}
+    \name{author}{1}{}{%
+      {{hash=PJ}{%
+         family={Parra},
+         familyi={P\bibinitperiod},
+         given={J.M.M.},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Editorial Elearning, S.L.}%
+    }
+    \strng{namehash}{PJ1}
+    \strng{fullhash}{PJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2018}
+    \field{labeldatesource}{}
+    \field{sortinit}{P}
+    \field{sortinithash}{P}
+    \field{title}{UF2218 - Desarrollo de un CMS}
+    \field{year}{2018}
+  \endentry
+
+  \entry{symfony2010}{book}{}
+    \name{author}{1}{}{%
+      {{hash=PF}{%
+         family={Potencier},
+         familyi={P\bibinitperiod},
+         given={F},
+         giveni={F},
+      }}%
+    }
+    \strng{namehash}{PF1}
+    \strng{fullhash}{PF1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2010}
+    \field{labeldatesource}{}
+    \field{sortinit}{P}
+    \field{sortinithash}{P}
+    \field{isbn}{13: 978-1590597866}
+    \field{title}{Symfony 1.2, la gu{\'i}a definitiva}
+    \field{year}{2010}
+  \endentry
+
+  \entry{symfony2}{online}{}
+    \name{author}{2}{}{%
+      {{hash=PF}{%
+         family={Potencier},
+         familyi={P\bibinitperiod},
+         given={Fabien},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=WR}{%
+         family={Weaver},
+         familyi={W\bibinitperiod},
+         given={Ryan},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{PFWR1}
+    \strng{fullhash}{PFWR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2022}
+    \field{labeldatesource}{}
+    \field{sortinit}{P}
+    \field{sortinithash}{P}
+    \field{note}{Consultado: 2022-06-24}
+    \field{title}{Symfony 2.4, el libro oficial}
+    \verb{url}
+    \verb https://uniwebsidad.com/libros/symfony-2-4/capitulo-1/symfony2-constr
+    \verb uye-tu-aplicacion-no-tus-herramientas
+    \endverb
+    \field{year}{2022}
+  \endentry
+
+  \entry{symfonyoverview}{online}{}
+    \name{author}{2}{}{%
+      {{hash=PF}{%
+         family={Potencier},
+         familyi={P\bibinitperiod},
+         given={Fabien},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=ZF}{%
+         family={Zaninotto},
+         familyi={Z\bibinitperiod},
+         given={François},
+         giveni={F\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{PFZF1}
+    \strng{fullhash}{PFZF1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2022}
+    \field{labeldatesource}{}
+    \field{sortinit}{P}
+    \field{sortinithash}{P}
+    \field{note}{Consultado: 2022-06-24}
+    \field{title}{Symfony 1.4, la guía definitiva}
+    \verb{url}
+    \verb https://uniwebsidad.com/libros/symfony-1-4/capitulo-1/symfony-en-poca
+    \verb s-palabras
+    \endverb
+    \field{year}{2022}
+  \endentry
+
+  \entry{puentes2008sistema}{misc}{}
+    \name{author}{3}{}{%
+      {{hash=PCR}{%
+         family={Puentes\bibnamedelima Crespo},
+         familyi={P\bibinitperiod\bibinitdelim C\bibinitperiod},
+         given={Raiza},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=MTI}{%
+         family={Mora\bibnamedelima Tamayo},
+         familyi={M\bibinitperiod\bibinitdelim T\bibinitperiod},
+         given={Ismaray},
+         giveni={I\bibinitperiod},
+      }}%
+      {{hash=GHAM}{%
+         family={Gonz{\'a}lez\bibnamedelima Hurtado},
+         familyi={G\bibinitperiod\bibinitdelim H\bibinitperiod},
+         given={Aliennis\bibnamedelima Mercedes},
+         giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{PCRMTIGHAM1}
+    \strng{fullhash}{PCRMTIGHAM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2008}
+    \field{labeldatesource}{}
+    \field{sortinit}{P}
+    \field{sortinithash}{P}
+    \field{title}{Sistema de gesti{\'o}n econ{\'o}mica para el {\'A}rea de
+  Econom{\'\i}a de la Direcci{\'o}n de Gesti{\'o}n Tecnol{\'o}gica de la UCI.}
+    \field{type}{{B.S.} thesis}
+    \field{year}{2008}
+  \endentry
+
+  \entry{ramos2017curso}{book}{}
+    \name{author}{5}{}{%
+      {{hash=RD}{%
+         family={Ramos},
+         familyi={R\bibinitperiod},
+         given={D.},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=NR}{%
+         family={Noriega},
+         familyi={N\bibinitperiod},
+         given={R.},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=LJ}{%
+         family={La{\'\i}nez},
+         familyi={L\bibinitperiod},
+         given={J.R.},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=DA}{%
+         family={Durango},
+         familyi={D\bibinitperiod},
+         given={A.},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=AI}{%
+         family={Academy},
+         familyi={A\bibinitperiod},
+         given={I.T.C.},
+         giveni={I\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {CreateSpace Independent Publishing Platform}%
+    }
+    \strng{namehash}{RD+1}
+    \strng{fullhash}{RDNRLJDAAI1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2017}
+    \field{labeldatesource}{}
+    \field{sortinit}{R}
+    \field{sortinithash}{R}
+    \field{isbn}{9781544132532}
+    \field{title}{Curso de Ingenier{\'\i}a de Software: 2{\textordfeminine}
+  Edici{\'o}n}
+    \field{year}{2017}
+  \endentry
+
+  \entry{sanchez2013sistema}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=SMN}{%
+         family={S{\'a}nchez\bibnamedelima Muguercia},
+         familyi={S\bibinitperiod\bibinitdelim M\bibinitperiod},
+         given={Nilmar},
+         giveni={N\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SMN1}
+    \strng{fullhash}{SMN1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2013}
+    \field{labeldatesource}{}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{title}{Aplicación de escritorio del Sistema de Entrega Digital}
+    \list{institution}{1}{%
+      {La Habana: Universidad de las Ciencias Inform{\'a}ticas (UCI).}%
+    }
+    \field{type}{{B.S.} thesis}
+    \field{year}{2013}
+  \endentry
+
+  \entry{vivanco2021erp}{article}{}
+    \name{author}{2}{}{%
+      {{hash=VMT}{%
+         family={Vivanco},
+         familyi={V\bibinitperiod},
+         given={Mailyn\bibnamedelima Torres},
+         giveni={M\bibinitperiod\bibinitdelim T\bibinitperiod},
+      }}%
+      {{hash=MLC}{%
+         family={Mu{\~n}oz},
+         familyi={M\bibinitperiod},
+         given={Lenna\bibnamedelima Carballo},
+         giveni={L\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Universidad de las Ciencias Inform{\'a}ticas}%
+    }
+    \strng{namehash}{VMTMLC1}
+    \strng{fullhash}{VMTMLC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2021}
+    \field{labeldatesource}{}
+    \field{sortinit}{V}
+    \field{sortinithash}{V}
+    \field{number}{4}
+    \field{pages}{105\bibrangedash 124}
+    \field{title}{ERP para la gesti{\'o}n de la informaci{\'o}n econ{\'o}mica
+  de los productos c{\'a}rnicos}
+    \field{volume}{15}
+    \field{journaltitle}{Revista Cubana de Ciencias Inform{\'a}ticas}
+    \field{year}{2021}
+  \endentry
+\enddatalist
+\endinput

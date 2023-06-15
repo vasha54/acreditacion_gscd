@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2023.1.7)  14 JUN 2023 21:21
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2023.1.7)  24 MAY 2023 23:19
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**acreditacion.tex
-(./acreditacion.tex
+**tesis.tex
+(./tesis.tex
 LaTeX2e <2020-10-01> patch level 4
 L3 programming layer <2021-01-09> xparse <2020-03-03>
 (/usr/share/texlive/texmf-dist/tex/latex/base/report.cls
@@ -693,7 +693,7 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip58
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 43.
+Package hyperref Info: Option `colorlinks' set `true' on input line 41.
 
 (./lettrine.sty
 File: lettrine.sty 1999/08/18 v1.1 (D. Flipo)
@@ -1434,11 +1434,11 @@ Package biblatex Warning: 'firstinits' option is deprecated.
 (biblatex)                Please use 'giveninits' instead.
 
 )
-Package biblatex Info: Redefining '\cite' on input line 109.
-Package biblatex Info: Redefining '\parencite' on input line 123.
-Package biblatex Info: Redefining '\footcite' on input line 137.
-Package biblatex Info: Redefining '\footcitetext' on input line 144.
-Package biblatex Info: Redefining '\textcite' on input line 151.
+Package biblatex Info: Redefining '\cite' on input line 107.
+Package biblatex Info: Redefining '\parencite' on input line 121.
+Package biblatex Info: Redefining '\footcite' on input line 135.
+Package biblatex Info: Redefining '\footcitetext' on input line 142.
+Package biblatex Info: Redefining '\textcite' on input line 149.
  (./configuracion.tex (./datetime.sty
 Package: datetime 2015/03/20 v2.60 Date Time Package
  (./fmtcount.sty
@@ -1501,7 +1501,7 @@ Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
 
 Package biblatex Warning: Conflicting options.
 (biblatex)                '<namepart>inits' conflicts with 'uniquename=full'.
-(biblatex)                Setting 'uniquename=init' on input line 194.
+(biblatex)                Setting 'uniquename=init' on input line 195.
 
 (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2020-01-29 L3 backend support: PDF output (pdfTeX)
@@ -1512,28 +1512,28 @@ File: l3backend-pdftex.def 2020-01-29 L3 backend support: PDF output (pdfTeX)
 LaTeX Warning: Unused global option(s):
     [paper=a4].
 
-(./acreditacion.aux
+(./tesis.aux
 LaTeX Info: Redefining \. on input line 34.
 LaTeX Info: Redefining \% on input line 34.
 )
-\openout1 = `acreditacion.aux'.
+\openout1 = `tesis.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 194.
-LaTeX Font Info:    ... okay on input line 194.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 194.
-LaTeX Font Info:    ... okay on input line 194.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 194.
-LaTeX Font Info:    ... okay on input line 194.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 194.
-LaTeX Font Info:    ... okay on input line 194.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 194.
-LaTeX Font Info:    ... okay on input line 194.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 194.
-LaTeX Font Info:    ... okay on input line 194.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 194.
-LaTeX Font Info:    ... okay on input line 194.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 194.
-LaTeX Font Info:    ... okay on input line 194.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 195.
+LaTeX Font Info:    ... okay on input line 195.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 195.
+LaTeX Font Info:    ... okay on input line 195.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 195.
+LaTeX Font Info:    ... okay on input line 195.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 195.
+LaTeX Font Info:    ... okay on input line 195.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 195.
+LaTeX Font Info:    ... okay on input line 195.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 195.
+LaTeX Font Info:    ... okay on input line 195.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 195.
+LaTeX Font Info:    ... okay on input line 195.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 195.
+LaTeX Font Info:    ... okay on input line 195.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1543,16 +1543,16 @@ LaTeX Font Info:    ... okay on input line 194.
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(57.81621pt, 498.66258pt, 57.81621pt)
+* h-part:(L,W,R)=(108.405pt, 433.62001pt, 72.26999pt)
 * v-part:(T,H,B)=(72.26999pt, 650.43001pt, 72.26999pt)
 * \paperwidth=614.295pt
 * \paperheight=794.96999pt
-* \textwidth=498.66258pt
+* \textwidth=433.62001pt
 * \textheight=650.43001pt
-* \oddsidemargin=-14.45378pt
-* \evensidemargin=-14.45378pt
+* \oddsidemargin=36.13501pt
+* \evensidemargin=36.13501pt
 * \topmargin=-37.0pt
-* \headheight=15.0pt
+* \headheight=12.0pt
 * \headsep=25.0pt
 * \topskip=12.0pt
 * \footskip=30.0pt
@@ -1569,8 +1569,8 @@ LaTeX Font Info:    ... okay on input line 194.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Info: Redefining \. on input line 194.
-LaTeX Info: Redefining \% on input line 194.
+LaTeX Info: Redefining \. on input line 195.
+LaTeX Info: Redefining \% on input line 195.
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count471
@@ -1593,7 +1593,7 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-Package hyperref Info: Link coloring ON on input line 194.
+Package hyperref Info: Link coloring ON on input line 195.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
@@ -1606,13 +1606,13 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count477
 )
-LaTeX Info: Redefining \ref on input line 194.
-LaTeX Info: Redefining \pageref on input line 194.
-LaTeX Info: Redefining \nameref on input line 194.
+LaTeX Info: Redefining \ref on input line 195.
+LaTeX Info: Redefining \pageref on input line 195.
+LaTeX Info: Redefining \nameref on input line 195.
 
-(./acreditacion.out) (./acreditacion.out)
+(./tesis.out) (./tesis.out)
 \@outlinefile=\write6
-\openout6 = `acreditacion.out'.
+\openout6 = `tesis.out'.
 
 Package biblatex Info: Trying to load language 'spanish'...
 Package biblatex Info: ... file 'spanish.lbx' found.
@@ -1643,352 +1643,454 @@ Package: xparse 2020-10-27 L3 Experimental document command parser
 (/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse-generic.tex))
 Package: blx-case-expl3 2020/12/31 v3.16 expl3 case changing code for biblatex
 )
-\openout5 = `acreditacion-blx.bib'.
+\openout5 = `tesis-blx.bib'.
 
 Package biblatex Info: Trying to load bibliographic data...
-Package biblatex Info: ... file 'acreditacion.bbl' not found.
-
-No file acreditacion.bbl.
-Package biblatex Info: Reference section=0 on input line 194.
-Package biblatex Info: Reference segment=0 on input line 194.
-<img/logo_umcc.png, id=182, 91.0602pt x 98.72083pt>
+Package biblatex Info: ... file 'tesis.bbl' found.
+ (./tesis.bbl)
+Package biblatex Info: Reference section=0 on input line 195.
+Package biblatex Info: Reference segment=0 on input line 195.
+<img/logo_umcc.png, id=107, 91.0602pt x 98.72083pt>
 File: img/logo_umcc.png Graphic file (type png)
 <use img/logo_umcc.png>
-Package pdftex.def Info: img/logo_umcc.png  used on input line 200.
+Package pdftex.def Info: img/logo_umcc.png  used on input line 201.
 (pdftex.def)             Requested size: 62.83159pt x 68.11742pt.
-<img/logo_facultad_fcsh_negro.png, id=184, 2483.97675pt x 2483.97675pt>
-File: img/logo_facultad_fcsh_negro.png Graphic file (type png)
-<use img/logo_facultad_fcsh_negro.png>
-Package pdftex.def Info: img/logo_facultad_fcsh_negro.png  used on input line 2
-00.
-(pdftex.def)             Requested size: 74.51608pt x 74.51608pt.
-
-Overfull \hbox (26.89755pt too wide) in paragraph at lines 200--200
- [] 
- []
-
-<img/banner.jpg, id=185, 903.375pt x 602.25pt>
-File: img/banner.jpg Graphic file (type jpg)
-<use img/banner.jpg>
-Package pdftex.def Info: img/banner.jpg  used on input line 209.
-(pdftex.def)             Requested size: 498.66258pt x 332.45154pt.
-[1
+<img/logo_facultad_ciencias_tecnicas.png, id=109, 142.5325pt x 147.55125pt>
+File: img/logo_facultad_ciencias_tecnicas.png Graphic file (type png)
+<use img/logo_facultad_ciencias_tecnicas.png>
+Package pdftex.def Info: img/logo_facultad_ciencias_tecnicas.png  used on input
+ line 201.
+(pdftex.def)             Requested size: 57.01198pt x 59.01944pt.
+ [1
 
 
 Non-PDF special ignored!
 <special> ! userdict       begin       /draftcopy-CurrentPage 0 def       /...
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./img/logo_umcc.png> <./im
-g/logo_facultad_fcsh_negro.png> <./img/banner.jpg>] (./acreditacion.toc
+g/logo_facultad_ciencias_tecnicas.png>] (./tex_files/autoria.tex) [1
+
+]
+(./tex_files/resumen.tex) [2
+
+] (./tex_files/abstract.tex)
+Overfull \hbox (1.46312pt too wide) in paragraph at lines 19--247
+[]\T1/ptm/b/n/12 Keyworks: \T1/ptm/m/n/12 Eco-no-mic ma-na-ge-ment sys-tems, Hu
+-man re-sour-ces ma-na-ge-ment sys-tems, Djan-
+ []
+
+[3
+
+] (./tesis.toc
 LaTeX Info: Redefining \sptext on input line 2.
 LaTeX Info: Redefining \. on input line 2.
 LaTeX Info: Redefining \% on input line 2.
+ [4
 
-Overfull \hbox (5.97157pt too wide) in paragraph at lines 4--4
- [] [][]\T1/ptm/b/n/14.4 CA-RAC-TE-RI-ZA-CIÓN DE LA CA-RRE-RA GES-TIÓN SO-CIO-C
-UL-TU-RAL PA- 
- []
+])
+\tf@toc=\write7
+\openout7 = `tesis.toc'.
 
+ [5] (./tex_files/introduccion.tex
+LaTeX Info: Symbol \textasciiacute not provided by
+            font family ptm in TS1 encoding.
+            Default family used instead on input line 37.
+LaTeX Info: Symbol \textasciiacute not provided by
+            font family ptm in TS1 encoding.
+            Default family used instead on input line 42.
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.44 ...tilizadas por la carrera}{8}{section.2.14}
-                                                  %
-<./img/logo6.png, id=214, 883.3pt x 883.3pt>
-File: ./img/logo6.png Graphic file (type png)
-<use ./img/logo6.png>
-Package pdftex.def Info: ./img/logo6.png  used on input line 44.
-(pdftex.def)             Requested size: 614.31628pt x 614.31628pt.
- [1
+l.52 
+      [1
 
- <./img/logo6.png>])
-\tf@toc=\write7
-\openout7 = `acreditacion.toc'.
+]
 
-File: ./img/logo6.png Graphic file (type png)
-<use ./img/logo6.png>
-Package pdftex.def Info: ./img/logo6.png  used on input line 232.
-(pdftex.def)             Requested size: 614.31628pt x 614.31628pt.
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.02399pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.02399pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.02399pt}.
 
 [2]
 
-Package fancyhdr Warning: \fancyhead's `E' option without twoside option is use
-less on input line 242.
-
-
-Package fancyhdr Warning: \fancyhead's `E' option without twoside option is use
-less on input line 250.
-
-
-Package fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
-less on input line 251.
-
-
-Package fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
-less on input line 252.
-
-(./tex_files/caracterizacion.tex)
-<img/logo_umcc2.png, id=252, 151.767pt x 123.8226pt>
-File: img/logo_umcc2.png Graphic file (type png)
-<use img/logo_umcc2.png>
-Package pdftex.def Info: img/logo_umcc2.png  used on input line 260.
-(pdftex.def)             Requested size: 40.97763pt x 33.43254pt.
-<img/logo_facultad_fcsh.png, id=253, 2483.97675pt x 2483.97675pt>
-File: img/logo_facultad_fcsh.png Graphic file (type png)
-<use img/logo_facultad_fcsh.png>
-Package pdftex.def Info: img/logo_facultad_fcsh.png  used on input line 260.
-(pdftex.def)             Requested size: 32.29283pt x 32.29283pt.
-
-
-Package fancyhdr Warning: \headheight is too small (15.0pt): 
-(fancyhdr)                Make it at least 37.78258pt, for example:
-(fancyhdr)                \setlength{\headheight}{37.78258pt}.
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.02399pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.02399pt}.
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 
-(fancyhdr)                \addtolength{\topmargin}{-22.78258pt}.
+(fancyhdr)                \addtolength{\topmargin}{-3.02399pt}.
 
-File: ./img/logo6.png Graphic file (type png)
-<use ./img/logo6.png>
-Package pdftex.def Info: ./img/logo6.png  used on input line 260.
-(pdftex.def)             Requested size: 614.31628pt x 614.31628pt.
-[3
+[3]
 
- <./img/logo_umcc2.png> <./img/logo_facultad_fcsh.png>]
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.02399pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.02399pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.02399pt}.
+
+[4])
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.02399pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.02399pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.02399pt}.
+
+[5] (./tex_files/capitulo1.tex
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.02399pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.02399pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.02399pt}.
+
+[6]
 Cap\'{\i }tulo 1.
-(./tex_files/variable_1.tex (./tex_files/variable_1_1.tex)
-(./tex_files/variable_1_2.tex))
-File: img/logo_umcc2.png Graphic file (type png)
-<use img/logo_umcc2.png>
-Package pdftex.def Info: img/logo_umcc2.png  used on input line 268.
-(pdftex.def)             Requested size: 40.97763pt x 33.43254pt.
-File: img/logo_facultad_fcsh.png Graphic file (type png)
-<use img/logo_facultad_fcsh.png>
-Package pdftex.def Info: img/logo_facultad_fcsh.png  used on input line 268.
-(pdftex.def)             Requested size: 32.29283pt x 32.29283pt.
-
-
-Package fancyhdr Warning: \headheight is too small (15.0pt): 
-(fancyhdr)                Make it at least 37.78258pt, for example:
-(fancyhdr)                \setlength{\headheight}{37.78258pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-22.78258pt}.
-
-File: ./img/logo6.png Graphic file (type png)
-<use ./img/logo6.png>
-Package pdftex.def Info: ./img/logo6.png  used on input line 268.
-(pdftex.def)             Requested size: 614.31628pt x 614.31628pt.
-[4
+(./tex_files/cap1/intro_cap1.tex)
+(./tex_files/cap1/grupo_creacion_artitisticas_vigia.tex)
+(./tex_files/cap1/app_similares.tex (./tex_files/cap1/asset.tex) [7
 
 ]
+(./tex_files/cap1/rodas.tex) (./tex_files/cap1/geseconuci.tex)
+(./tex_files/cap1/versat.tex)
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 18.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{18.0pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-6.0pt}.
+
+[8] (./tex_files/cap1/geseconcienf.tex) (./tex_files/cap1/erpueb.tex)
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 18.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{18.0pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-6.0pt}.
+
+[9]) (./tex_files/cap1/metodologias_desarrollo_software.tex
+Underfull \hbox (badness 2486) in paragraph at lines 67--68
+[]|\T1/ptm/m/n/12 Proceso me-nos con-tro-la-do, con po-cos
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 18.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{18.0pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-6.0pt}.
+
+[10] (./tex_files/cap1/agiles.tex
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 18.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{18.0pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-6.0pt}.
+
+[11] (./tex_files/cap1/eleccion_metodologia_desarrollo_software.tex
+(./tex_files/cap1/xp.tex
+<img/ciclo_vida_xp.PNG, id=282, 442.65375pt x 174.6525pt>
+File: img/ciclo_vida_xp.PNG Graphic file (type png)
+<use img/ciclo_vida_xp.PNG>
+Package pdftex.def Info: img/ciclo_vida_xp.PNG  used on input line 47.
+(pdftex.def)             Requested size: 354.12346pt x 139.72218pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 18.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{18.0pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-6.0pt}.
+
+[12])))) (./tex_files/cap1/tecnologias_herramientas.tex
+(./tex_files/cap1/lenguaje_modelado.tex (./tex_files/cap1/lenguaje_uml.tex))
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 18.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{18.0pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-6.0pt}.
+
+[13 <./img/ciclo_vida_xp.PNG>] (./tex_files/cap1/herramienta_case.tex
+(./tex_files/cap1/visual_paradigm.tex) (./tex_files/cap1/rationalrose.tex
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 18.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{18.0pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-6.0pt}.
+
+[14]) (./tex_files/cap1/eleccioncase.tex))
+(./tex_files/cap1/framework_de_desarrollo.tex (./tex_files/cap1/django.tex
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 18.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{18.0pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-6.0pt}.
+
+[15]) (./tex_files/cap1/laravel.tex)
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 18.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{18.0pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-6.0pt}.
+
+[16] (./tex_files/cap1/symfony.tex) (./tex_files/cap1/asp.tex
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 18.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{18.0pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-6.0pt}.
+
+[17]) (./tex_files/cap1/node.tex) (./tex_files/cap1/framework_eleccion.tex))
+(./tex_files/cap1/entornos_desarrollo.tex
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 18.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{18.0pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-6.0pt}.
+
+[18] (./tex_files/cap1/android_studio.tex) (./tex_files/cap1/microsoftvs.tex)
+(./tex_files/cap1/pycharm.tex)
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 18.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{18.0pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-6.0pt}.
+
+[19] (./text_files/cap1/vscode.tex) (./tex_files/cap1/vscode_vs_pycharm.tex))
+(./tex_files/cap1/lenguajes_desarrollo.tex
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 18.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{18.0pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-6.0pt}.
+
+[20] (./tex_files/cap1/python.tex) (./tex_files/cap1/HTML.tex)
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 18.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{18.0pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-6.0pt}.
+
+[21] (./tex_files/cap1/css.tex) (./tex_files/cap1/w3css.tex
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 18.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{18.0pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-6.0pt}.
+
+[22]) (./tex_files/cap1/java_script.tex)) (./tex_files/cap1/servidor_web.tex)
+(./tex_files/cap1/sgbd.tex (./tex_files/cap1/sgbd_eleccion.tex))))
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 18.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{18.0pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-6.0pt}.
+
+[23] (./tex_files/capitulo2.tex
 Cap\'{\i }tulo 2.
-(./tex_files/variable_2.tex (./tex_files/variable_2_1.tex)
-(./tex_files/variable_2_2.tex) (./tex_files/variable_2_3.tex)
-(./tex_files/variable_2_4.tex) (./tex_files/variable_2_5.tex)
-(./tex_files/variable_2_6.tex))
-File: img/logo_umcc2.png Graphic file (type png)
-<use img/logo_umcc2.png>
-Package pdftex.def Info: img/logo_umcc2.png  used on input line 273.
-(pdftex.def)             Requested size: 40.97763pt x 33.43254pt.
-File: img/logo_facultad_fcsh.png Graphic file (type png)
-<use img/logo_facultad_fcsh.png>
-Package pdftex.def Info: img/logo_facultad_fcsh.png  used on input line 273.
-(pdftex.def)             Requested size: 32.29283pt x 32.29283pt.
-
-
-Package fancyhdr Warning: \headheight is too small (15.0pt): 
-(fancyhdr)                Make it at least 37.78258pt, for example:
-(fancyhdr)                \setlength{\headheight}{37.78258pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-22.78258pt}.
-
-File: ./img/logo6.png Graphic file (type png)
-<use ./img/logo6.png>
-Package pdftex.def Info: ./img/logo6.png  used on input line 273.
-(pdftex.def)             Requested size: 614.31628pt x 614.31628pt.
-[5
+(./tex_files/cap2/requisitos.tex (./tex_files/cap2/requisitos_funcionales.tex
+[24
 
 ]
-Cap\'{\i }tulo 3.
-(./tex_files/variable_3.tex (./tex_files/variable_3_1.tex)
-(./tex_files/variable_3_2.tex) (./tex_files/variable_3_3.tex)
-(./tex_files/variable_3_4.tex))
-File: img/logo_umcc2.png Graphic file (type png)
-<use img/logo_umcc2.png>
-Package pdftex.def Info: img/logo_umcc2.png  used on input line 279.
-(pdftex.def)             Requested size: 40.97763pt x 33.43254pt.
-File: img/logo_facultad_fcsh.png Graphic file (type png)
-<use img/logo_facultad_fcsh.png>
-Package pdftex.def Info: img/logo_facultad_fcsh.png  used on input line 279.
-(pdftex.def)             Requested size: 32.29283pt x 32.29283pt.
 
-
-Package fancyhdr Warning: \headheight is too small (15.0pt): 
-(fancyhdr)                Make it at least 37.78258pt, for example:
-(fancyhdr)                \setlength{\headheight}{37.78258pt}.
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 18.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{18.0pt}.
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 
-(fancyhdr)                \addtolength{\topmargin}{-22.78258pt}.
+(fancyhdr)                \addtolength{\topmargin}{-6.0pt}.
 
-File: ./img/logo6.png Graphic file (type png)
-<use ./img/logo6.png>
-Package pdftex.def Info: ./img/logo6.png  used on input line 279.
-(pdftex.def)             Requested size: 614.31628pt x 614.31628pt.
-[6
+[25]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 18.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{18.0pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-6.0pt}.
+
+[26]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 18.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{18.0pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-6.0pt}.
+
+[27]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 18.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{18.0pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-6.0pt}.
+
+[28]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 18.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{18.0pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-6.0pt}.
+
+[29]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 18.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{18.0pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-6.0pt}.
+
+[30]) (./tex_files/cap2/requisitos_no_funcionales.tex
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 18.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{18.0pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-6.0pt}.
+
+[31]) (./tex_files/cap2/plan_iteraciones.tex
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 18.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{18.0pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-6.0pt}.
+
+[32])))
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 18.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{18.0pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-6.0pt}.
+
+[33]
+LaTeX Font Info:    Trying to load font information for T1+pcr on input line 30
+3.
+ (/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1pcr.fd
+File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
+)
+Overfull \hbox (14.48174pt too wide) in paragraph at lines 305--305
+\T1/ptm/m/it/12 Aná-li-sis. 2 Edi-ción\T1/ptm/m/n/12 . Crea-teS-pa-ce In-de-pen
+-dent Pu-blishing Plat-form. \T1/ptm/m/sc/12 isbn\T1/ptm/m/n/12 : 9781530088614
+. 
+ []
+
+[34
 
 ]
-Cap\'{\i }tulo 4.
-(./tex_files/variable_4.tex (./tex_files/variable_4_1.tex)
-(./tex_files/variable_4_2.tex) (./tex_files/variable_4_3.tex)
-(./tex_files/variable_4_4.tex))
-File: img/logo_umcc2.png Graphic file (type png)
-<use img/logo_umcc2.png>
-Package pdftex.def Info: img/logo_umcc2.png  used on input line 283.
-(pdftex.def)             Requested size: 40.97763pt x 33.43254pt.
-File: img/logo_facultad_fcsh.png Graphic file (type png)
-<use img/logo_facultad_fcsh.png>
-Package pdftex.def Info: img/logo_facultad_fcsh.png  used on input line 283.
-(pdftex.def)             Requested size: 32.29283pt x 32.29283pt.
+Overfull \hbox (17.52045pt too wide) in paragraph at lines 305--305
+[][]\T1/ptm/m/n/12 Foundation, M. (2022a). \T1/ptm/m/it/12 CSS: Cas-ca-ding Sty
+-le Sheets\T1/ptm/m/n/12 . Con-sul-ta-do: 2022-06-24. \T1/ptm/m/sc/12 url\T1/pt
+m/m/n/12 : [][]$\T1/pcr/m/n/12 https :
+ []
 
 
-Package fancyhdr Warning: \headheight is too small (15.0pt): 
-(fancyhdr)                Make it at least 37.78258pt, for example:
-(fancyhdr)                \setlength{\headheight}{37.78258pt}.
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.02399pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.02399pt}.
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 
-(fancyhdr)                \addtolength{\topmargin}{-22.78258pt}.
+(fancyhdr)                \addtolength{\topmargin}{-3.02399pt}.
 
-File: ./img/logo6.png Graphic file (type png)
-<use ./img/logo6.png>
-Package pdftex.def Info: ./img/logo6.png  used on input line 283.
-(pdftex.def)             Requested size: 614.31628pt x 614.31628pt.
-[7
-
-]
-Cap\'{\i }tulo 5.
-(./tex_files/variable_5.tex (./tex_files/variable_5_1.tex)
-(./tex_files/variable_5_2.tex) (./tex_files/variable_5_3.tex)
-(./tex_files/variable_5_4.tex) (./tex_files/variable_5_5.tex))
-File: img/logo_umcc2.png Graphic file (type png)
-<use img/logo_umcc2.png>
-Package pdftex.def Info: img/logo_umcc2.png  used on input line 287.
-(pdftex.def)             Requested size: 40.97763pt x 33.43254pt.
-File: img/logo_facultad_fcsh.png Graphic file (type png)
-<use img/logo_facultad_fcsh.png>
-Package pdftex.def Info: img/logo_facultad_fcsh.png  used on input line 287.
-(pdftex.def)             Requested size: 32.29283pt x 32.29283pt.
+[35]
+Overfull \hbox (30.90462pt too wide) in paragraph at lines 305--305
+[][]$\T1/pcr/m/n/12 https : / / www . visual -[] paradigm . com / support / doc
+uments / vpuserguide /
+ []
 
 
-Package fancyhdr Warning: \headheight is too small (15.0pt): 
-(fancyhdr)                Make it at least 37.78258pt, for example:
-(fancyhdr)                \setlength{\headheight}{37.78258pt}.
+Overfull \hbox (3.78415pt too wide) in paragraph at lines 305--305
+\T1/ptm/m/n/12 24. \T1/ptm/m/sc/12 url\T1/ptm/m/n/12 : [][]$\T1/pcr/m/n/12 http
+s : / / uniwebsidad . com / libros / symfony -[] 1 -[] 4 / capitulo -[]
+ []
+
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 3
+03.
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ts1ptm.fd
+File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
+)
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.02399pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.02399pt}.
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 
-(fancyhdr)                \addtolength{\topmargin}{-22.78258pt}.
+(fancyhdr)                \addtolength{\topmargin}{-3.02399pt}.
 
-File: ./img/logo6.png Graphic file (type png)
-<use ./img/logo6.png>
-Package pdftex.def Info: ./img/logo6.png  used on input line 287.
-(pdftex.def)             Requested size: 614.31628pt x 614.31628pt.
-[8
-
-] (./tex_files/anexo.tex)
-File: img/logo_umcc2.png Graphic file (type png)
-<use img/logo_umcc2.png>
-Package pdftex.def Info: img/logo_umcc2.png  used on input line 293.
-(pdftex.def)             Requested size: 40.97763pt x 33.43254pt.
-File: img/logo_facultad_fcsh.png Graphic file (type png)
-<use img/logo_facultad_fcsh.png>
-Package pdftex.def Info: img/logo_facultad_fcsh.png  used on input line 293.
-(pdftex.def)             Requested size: 32.29283pt x 32.29283pt.
-
-
-Package fancyhdr Warning: \headheight is too small (15.0pt): 
-(fancyhdr)                Make it at least 37.78258pt, for example:
-(fancyhdr)                \setlength{\headheight}{37.78258pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-22.78258pt}.
-
-File: ./img/logo6.png Graphic file (type png)
-<use ./img/logo6.png>
-Package pdftex.def Info: ./img/logo6.png  used on input line 293.
-(pdftex.def)             Requested size: 614.31628pt x 614.31628pt.
-[9
-
-] (./acreditacion.aux
+[36] (./tesis.aux
 LaTeX Info: Redefining \sptext on input line 34.
 LaTeX Info: Redefining \. on input line 34.
 LaTeX Info: Redefining \% on input line 34.
 )
-
-Package rerunfilecheck Warning: File `acreditacion.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `acreditacion.out':
-(rerunfilecheck)             Before: 7F879E92FF87C39F00F4911AF669C309;4289
-(rerunfilecheck)             After:  A2C303B2A98D3621E60109C1BC029C2C;2700.
-Package logreq Info: Writing requests to 'acreditacion.run.xml'.
-\openout1 = `acreditacion.run.xml'.
+Package rerunfilecheck Info: File `tesis.out' has not changed.
+(rerunfilecheck)             Checksum: 81A9E174C7CB83E5DCE36BE90E07A33A;2274.
+Package logreq Info: Writing requests to 'tesis.run.xml'.
+\openout1 = `tesis.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 28409 strings out of 481190
- 523421 string characters out of 5913951
- 1243713 words of memory out of 5000000
- 44690 multiletter control sequences out of 15000+600000
- 426135 words of font info for 53 fonts, out of 8000000 for 9000
+ 29195 strings out of 481190
+ 538834 string characters out of 5913951
+ 1252960 words of memory out of 5000000
+ 45124 multiletter control sequences out of 15000+600000
+ 446110 words of font info for 69 fonts, out of 8000000 for 9000
  40 hyphenation exceptions out of 8191
- 102i,16n,102p,1826b,2247s stack positions out of 5000i,500n,10000p,200000b,80000s
-pdfTeX warning (dest): name{section.2.19} has been referenced but does not ex
-ist, replaced by a fixed one
-
-pdfTeX warning (dest): name{section.2.18} has been referenced but does not exis
-t, replaced by a fixed one
-
-pdfTeX warning (dest): name{section.2.17} has been referenced but does not exis
-t, replaced by a fixed one
-
-pdfTeX warning (dest): name{section.2.16} has been referenced but does not exis
-t, replaced by a fixed one
-
-pdfTeX warning (dest): name{section.2.15} has been referenced but does not exis
-t, replaced by a fixed one
-
-pdfTeX warning (dest): name{section.2.14} has been referenced but does not exis
-t, replaced by a fixed one
-
-pdfTeX warning (dest): name{section.2.13} has been referenced but does not exis
-t, replaced by a fixed one
-
-pdfTeX warning (dest): name{section.2.12} has been referenced but does not exis
-t, replaced by a fixed one
-
-pdfTeX warning (dest): name{section.2.11} has been referenced but does not exis
-t, replaced by a fixed one
-
-pdfTeX warning (dest): name{section.2.10} has been referenced but does not exis
-t, replaced by a fixed one
-
-pdfTeX warning (dest): name{section.2.9} has been referenced but does not exist
-, replaced by a fixed one
-
-pdfTeX warning (dest): name{section.2.8} has been referenced but does not exist
-, replaced by a fixed one
-
-pdfTeX warning (dest): name{section.2.7} has been referenced but does not exist
-, replaced by a fixed one
-
-{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texlive/
-texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-di
-st/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/
-urw/times/utmr8a.pfb>
-Output written on acreditacion.pdf (10 pages, 735412 bytes).
+ 102i,15n,102p,1819b,2390s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc} </home/vasha/.tex
+live2020/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1200.600pk></usr/share/texli
+ve/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/share/texlive/texmf-dist
+/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/ur
+w/times/utmbi8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a
+.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on tesis.pdf (42 pages, 231466 bytes).
 PDF statistics:
- 316 PDF objects out of 1000 (max. 8388607)
- 287 compressed objects within 3 object streams
- 52 named destinations out of 1000 (max. 500000)
- 403 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 761 PDF objects out of 1000 (max. 8388607)
+ 696 compressed objects within 7 object streams
+ 313 named destinations out of 1000 (max. 500000)
+ 228 words of extra memory for PDF output out of 10000 (max. 10000000)
 
