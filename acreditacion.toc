@@ -1,7 +1,7 @@
 \boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
 \babel@toc {spanish}{}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\large CARACTERIZACI\'ON DE LA CARRERA GESTI\'ON SOCIOCULTURAL PARA EL DESARROLLO}{3}{chapter*.1}%
+\contentsline {chapter}{\fontsize {14pt}{14pt} CARACTERIZACI\'ON DE LA CARRERA GESTI\'ON SOCIOCULTURAL PARA EL DESARROLLO}{3}{chapter*.1}%
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {1}PERTINENCIA E IMPACTO SOCIAL}{4}{chapter.1}%
 \defcounter {refsection}{0}\relax 
@@ -22,8 +22,6 @@
 \contentsline {section}{\numberline {2.5}Experiencia profesional en el área del conocimiento de la carrera}{5}{section.2.5}%
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {2.6}Personal no docente y administrativo}{5}{section.2.6}%
-\defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\large VARIABLE 3: ESTUDIANTES}{6}{section.2.6}%
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {3}ESTUDIANTES}{6}{chapter.3}%
 \defcounter {refsection}{0}\relax 
@@ -49,12 +47,12 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {5.1}Gestión curricular en la carrera y en el colectivo pedagógico}{8}{section.5.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5.2}Estrategia educativa de la carrera}{8}{section.5.2}%
+\contentsline {section}{\numberline {5.2}Estrategia educativa de la carrera}{12}{section.5.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5.3}Relación entre los diferentes componentes del proceso docente – educativo en la carrera}{8}{section.5.3}%
+\contentsline {section}{\numberline {5.3}Relación entre los diferentes componentes del proceso docente – educativo en la carrera}{13}{section.5.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5.4}Actividad investigativa laboral de los estudiantes}{8}{section.5.4}%
+\contentsline {section}{\numberline {5.4}Actividad investigativa laboral de los estudiantes}{13}{section.5.4}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5.5}Estrategias curriculares }{8}{section.5.5}%
+\contentsline {section}{\numberline {5.5}Estrategias curriculares }{14}{section.5.5}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\large ANEXOS}{9}{section.5.5}%
+\contentsline {chapter}{\fontsize {14pt}{14pt} ANEXOS}{20}{section.5.5}%
