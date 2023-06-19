@@ -1,58 +1,58 @@
 \boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
 \babel@toc {spanish}{}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\fontsize {14pt}{14pt} INTRODUCCI\'ON}{3}{chapter*.1}%
+\contentsline {chapter}{\fontsize {14pt}{14pt} INTRODUCCI\'ON}{2}{chapter*.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {1}PERTINENCIA E IMPACTO SOCIAL}{6}{chapter.1}%
+\contentsline {chapter}{\numberline {1}PERTINENCIA E IMPACTO SOCIAL}{4}{chapter.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {1.1}Proyección de la profesión hacia el territorio y/o el país}{6}{section.1.1}%
+\contentsline {section}{\numberline {1.1}Proyección de la profesión hacia el territorio y/o el país}{4}{section.1.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {1.2}Satisfacción con la calidad de la formación}{12}{section.1.2}%
+\contentsline {section}{\numberline {1.2}Satisfacción con la calidad de la formación}{8}{section.1.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {2}PROFESORES Y PERSONAL AUXILIAR}{15}{chapter.2}%
+\contentsline {chapter}{\numberline {2}PROFESORES Y PERSONAL AUXILIAR}{10}{chapter.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.1}Cualidades del educador}{15}{section.2.1}%
+\contentsline {section}{\numberline {2.1}Cualidades del educador}{10}{section.2.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.2}Composición del claustro}{17}{section.2.2}%
+\contentsline {section}{\numberline {2.2}Composición del claustro}{11}{section.2.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.3}Calidad de las investigaciones y el posgrado en la carrera}{17}{section.2.3}%
+\contentsline {section}{\numberline {2.3}Calidad de las investigaciones y el posgrado en la carrera}{11}{section.2.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.4}Publicaciones de textos y/o artículos científicos en revistas referenciadas y participación en eventos nacionales e internacionales}{19}{section.2.4}%
+\contentsline {section}{\numberline {2.4}Publicaciones de textos y/o artículos científicos en revistas referenciadas y participación en eventos nacionales e internacionales}{13}{section.2.4}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.5}Experiencia profesional en el área del conocimiento de la carrera}{20}{section.2.5}%
+\contentsline {section}{\numberline {2.5}Experiencia profesional en el área del conocimiento de la carrera}{13}{section.2.5}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.6}Personal no docente y administrativo}{21}{section.2.6}%
+\contentsline {section}{\numberline {2.6}Personal no docente y administrativo}{14}{section.2.6}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {3}ESTUDIANTES}{23}{chapter.3}%
+\contentsline {chapter}{\numberline {3}ESTUDIANTES}{16}{chapter.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.1}Participación de los estudiantes como protagonistas de su proceso de formación}{23}{section.3.1}%
+\contentsline {section}{\numberline {3.1}Participación de los estudiantes como protagonistas de su proceso de formación}{16}{section.3.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.2}Dominio de los modos de actuación de la profesión}{31}{section.3.2}%
+\contentsline {section}{\numberline {3.2}Dominio de los modos de actuación de la profesión}{21}{section.3.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.3}Eficiencia académica}{33}{section.3.3}%
+\contentsline {section}{\numberline {3.3}Eficiencia académica}{23}{section.3.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.4}Organización docente para el aprendizaje }{34}{section.3.4}%
+\contentsline {section}{\numberline {3.4}Organización docente para el aprendizaje }{24}{section.3.4}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {4}INFRAESTRUCTURA}{37}{chapter.4}%
+\contentsline {chapter}{\numberline {4}INFRAESTRUCTURA}{26}{chapter.4}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.1}Sistema integrado y progresivo de medios de enseñanza}{37}{section.4.1}%
+\contentsline {section}{\numberline {4.1}Sistema integrado y progresivo de medios de enseñanza}{26}{section.4.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.2}Aseguramiento de la base material en el área de conocimientos de la carrera}{38}{section.4.2}%
+\contentsline {section}{\numberline {4.2}Aseguramiento de la base material en el área de conocimientos de la carrera}{27}{section.4.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.3}Aseguramiento material para el empleo de la computación y las TICs en la carrera}{39}{section.4.3}%
+\contentsline {section}{\numberline {4.3}Aseguramiento material para el empleo de la computación y las TICs en la carrera}{27}{section.4.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.4}Otras instalaciones de carácter docente utilizadas por la carrera}{41}{section.4.4}%
+\contentsline {section}{\numberline {4.4}Otras instalaciones de carácter docente utilizadas por la carrera}{28}{section.4.4}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {5}CURR\'ICULO}{43}{chapter.5}%
+\contentsline {chapter}{\numberline {5}CURR\'ICULO}{31}{chapter.5}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5.1}Gestión curricular en la carrera y en el colectivo pedagógico}{43}{section.5.1}%
+\contentsline {section}{\numberline {5.1}Gestión curricular en la carrera y en el colectivo pedagógico}{31}{section.5.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5.2}Estrategia educativa de la carrera}{47}{section.5.2}%
+\contentsline {section}{\numberline {5.2}Estrategia educativa de la carrera}{33}{section.5.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5.3}Relación entre los diferentes componentes del proceso docente – educativo en la carrera}{47}{section.5.3}%
+\contentsline {section}{\numberline {5.3}Relación entre los diferentes componentes del proceso docente – educativo en la carrera}{34}{section.5.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5.4}Actividad investigativa laboral de los estudiantes}{48}{section.5.4}%
+\contentsline {section}{\numberline {5.4}Actividad investigativa laboral de los estudiantes}{34}{section.5.4}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5.5}Estrategias curriculares }{49}{section.5.5}%
+\contentsline {section}{\numberline {5.5}Estrategias curriculares }{35}{section.5.5}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\fontsize {14pt}{14pt} ANEXOS}{54}{section.5.5}%
+\contentsline {chapter}{\fontsize {14pt}{14pt} ANEXOS}{37}{section.5.5}%

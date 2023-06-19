@@ -68,6 +68,7 @@
 \usepackage{type1cm}
 \usepackage{eso-pic}
 \usepackage{everypage}
+\usepackage{setspace}
 
 
 %Incluye la bibliografía en el índice
@@ -227,7 +228,9 @@ hyperref=true]{biblatex}
     
   
     \AddToShipoutPicture{\BackgroundPic}
+   \singlespacing
     \tableofcontents % Índice general
+    \singlespacing
     \pagebreak
     
    \pagestyle{fancy}
@@ -256,7 +259,7 @@ hyperref=true]{biblatex}
    \addcontentsline{toc}{chapter}{\fontsize{14pt}{14pt} INTRODUCCI\'ON} 
    \chapter*{INTRODUCCI\'ON}
    \input{tex_files/introduccion}
-    \pagebreak
+ %   \pagebreak
    
    
   
@@ -264,24 +267,24 @@ hyperref=true]{biblatex}
     
    \chapter{PERTINENCIA E IMPACTO SOCIAL}
    \input{tex_files/variable_1}
-   \pagebreak
+  % \pagebreak
    
    
    \chapter{PROFESORES Y PERSONAL AUXILIAR}
    \input{tex_files/variable_2}
-    \pagebreak
+   % \pagebreak
    
    \chapter{ESTUDIANTES}
    \input{tex_files/variable_3}
-    \pagebreak
+  %  \pagebreak
    
    \chapter{INFRAESTRUCTURA}
    \input{tex_files/variable_4}
-    \pagebreak
+ %   \pagebreak
    
    \chapter{CURR\'ICULO}
    \input{tex_files/variable_5}
-    \pagebreak
+ %   \pagebreak
   
   \addcontentsline{toc}{chapter}{\fontsize{14pt}{14pt} ANEXOS}
   \chapter*{ANEXOS}
