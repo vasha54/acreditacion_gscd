@@ -228,9 +228,11 @@ hyperref=true]{biblatex}
     
   
     \AddToShipoutPicture{\BackgroundPic}
+   
    \singlespacing
     \tableofcontents % Índice general
     \singlespacing
+    \thispagestyle{empty}
     \pagebreak
     
    \pagestyle{fancy}
@@ -255,7 +257,7 @@ hyperref=true]{biblatex}
    \fancyfoot[RO,CE]{}
    \fancypagestyle{plain}{\pagestyle{fancy}}
    
-   
+   \setcounter{page}{1}
    \addcontentsline{toc}{chapter}{\fontsize{14pt}{14pt} INTRODUCCI\'ON} 
    \chapter*{INTRODUCCI\'ON}
    \input{tex_files/introduccion}
