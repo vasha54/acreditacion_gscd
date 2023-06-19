@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2023.1.7)  18 JUN 2023 14:13
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2023.5.24)  19 JUN 2023 11:16
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -489,7 +489,7 @@ Package: babel 2021/01/26 3.53 The Babel package
 File: babel.def 2021/01/26 3.53 Babel common definitions
 \babel@savecnt=\count189
 \U@D=\dimen147
-\l@babelnohyphens=\language6
+\l@babelnohyphens=\language86
 
 (/usr/share/texlive/texmf-dist/tex/generic/babel/txtbabel.def)
 \bbl@readstream=\read2
@@ -712,7 +712,8 @@ File: lettrine.sty 1999/08/18 v1.1 (D. Flipo)
 \L@next=\skip67
 \L@slope=\skip68
 \L@height=\skip69
-) (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+ (/usr/share/texlive/texmf-dist/tex/latex/lettrine/lettrine.cfg)) (/usr/share/t
+exlive/texmf-dist/tex/latex/amsmath/amsmath.sty
 Package: amsmath 2020/09/23 v2.17i AMS math features
 \@mathmargin=\skip70
 
@@ -1253,7 +1254,7 @@ File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
 \bibhang=\skip92
 \blx@bcfin=\read6
 \blx@bcfout=\write5
-\blx@langwohyphens=\language7
+\blx@langwohyphens=\language87
 \c@mincomprange=\count361
 \c@maxcomprange=\count362
 \c@mincompwidth=\count363
@@ -1452,6 +1453,10 @@ Package: fcnumparser 2017/06/15
 ))
 \c@padzeroesN=\count444
 \fc@tmpcatcode=\count445
+
+(/usr/share/texlive/texmf-dist/tex/latex/fmtcount/fc-spanish.def
+File: fc-spanish.def 2016/01/12
+)
 \@DT@modctr=\count446
 \@ordinalctr=\count447
 \@orgargctr=\count448
@@ -1459,7 +1464,8 @@ Package: fcnumparser 2017/06/15
 \@tmpstrctr=\count450
 \@DT@loopN=\count451
 \@DT@X=\count452
-) (./datetime-defaults.sty
+)
+(./datetime-defaults.sty
 Package: datetime-defaults 2013/09/10
 )
 \@day=\count453
@@ -1477,18 +1483,14 @@ Package: datetime-defaults 2013/09/10
 Package datetime Info: No datetime.cfg file found, using default settings on in
 put line 308.
 
-
-Package datetime Warning: Can't find datetime language definition file for `spa
-nish' on input line 560.
-
+(/usr/share/texlive/texmf-dist/tex/latex/datetime/dt-spanish.def
+File: dt-spanish.def 2013/09/10
+LaTeX Info: Redefining \datespanish on input line 85.
+)
 \@dtctr=\count465
 \dayofyear=\count466
 \dayofweek=\count467
 LaTeX Info: Redefining \today on input line 736.
-
-Package datetime Warning: Can't find datetime language definition file for `spa
-nish' on input line 784.
-
 \dt@a=\toks50
 \dt@b=\toks51
 ))
@@ -1681,12 +1683,12 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.46 ...\numberline {5}CURR\'ICULO}{46}{chapter.5}
+l.52 ... educativo en la carrera}{47}{section.5.3}
                                                   %
-<./img/logo6.png, id=151, 883.3pt x 883.3pt>
+<./img/logo6.png, id=154, 883.3pt x 883.3pt>
 File: ./img/logo6.png Graphic file (type png)
 <use ./img/logo6.png>
-Package pdftex.def Info: ./img/logo6.png  used on input line 46.
+Package pdftex.def Info: ./img/logo6.png  used on input line 52.
 (pdftex.def)             Requested size: 614.31628pt x 614.31628pt.
  [1
 
@@ -1720,12 +1722,12 @@ less on input line 252.
 <img/logo_umcc2.png, id=169, 151.767pt x 123.8226pt>
 File: img/logo_umcc2.png Graphic file (type png)
 <use img/logo_umcc2.png>
-Package pdftex.def Info: img/logo_umcc2.png  used on input line 10.
+Package pdftex.def Info: img/logo_umcc2.png  used on input line 11.
 (pdftex.def)             Requested size: 40.97763pt x 33.43254pt.
 <img/logo_facultad_fcsh.png, id=170, 2483.97675pt x 2483.97675pt>
 File: img/logo_facultad_fcsh.png Graphic file (type png)
 <use img/logo_facultad_fcsh.png>
-Package pdftex.def Info: img/logo_facultad_fcsh.png  used on input line 10.
+Package pdftex.def Info: img/logo_facultad_fcsh.png  used on input line 11.
 (pdftex.def)             Requested size: 32.29283pt x 32.29283pt.
 
 
@@ -1738,7 +1740,7 @@ Package fancyhdr Warning: \headheight is too small (15.0pt):
 
 File: ./img/logo6.png Graphic file (type png)
 <use ./img/logo6.png>
-Package pdftex.def Info: ./img/logo6.png  used on input line 10.
+Package pdftex.def Info: ./img/logo6.png  used on input line 11.
 (pdftex.def)             Requested size: 614.31628pt x 614.31628pt.
 [3
 
@@ -1793,11 +1795,11 @@ Cap\'{\i }tulo 1.
 (./tex_files/variable_1.tex (./tex_files/variable_1_1.tex
 File: img/logo_umcc2.png Graphic file (type png)
 <use img/logo_umcc2.png>
-Package pdftex.def Info: img/logo_umcc2.png  used on input line 9.
+Package pdftex.def Info: img/logo_umcc2.png  used on input line 10.
 (pdftex.def)             Requested size: 40.97763pt x 33.43254pt.
 File: img/logo_facultad_fcsh.png Graphic file (type png)
 <use img/logo_facultad_fcsh.png>
-Package pdftex.def Info: img/logo_facultad_fcsh.png  used on input line 9.
+Package pdftex.def Info: img/logo_facultad_fcsh.png  used on input line 10.
 (pdftex.def)             Requested size: 32.29283pt x 32.29283pt.
 
 
@@ -1810,18 +1812,18 @@ Package fancyhdr Warning: \headheight is too small (15.0pt):
 
 File: ./img/logo6.png Graphic file (type png)
 <use ./img/logo6.png>
-Package pdftex.def Info: ./img/logo6.png  used on input line 9.
+Package pdftex.def Info: ./img/logo6.png  used on input line 10.
 (pdftex.def)             Requested size: 614.31628pt x 614.31628pt.
 [6
 
 ]
 File: img/logo_umcc2.png Graphic file (type png)
 <use img/logo_umcc2.png>
-Package pdftex.def Info: img/logo_umcc2.png  used on input line 24.
+Package pdftex.def Info: img/logo_umcc2.png  used on input line 35.
 (pdftex.def)             Requested size: 40.97763pt x 33.43254pt.
 File: img/logo_facultad_fcsh.png Graphic file (type png)
 <use img/logo_facultad_fcsh.png>
-Package pdftex.def Info: img/logo_facultad_fcsh.png  used on input line 24.
+Package pdftex.def Info: img/logo_facultad_fcsh.png  used on input line 35.
 (pdftex.def)             Requested size: 32.29283pt x 32.29283pt.
 
 
@@ -1834,16 +1836,16 @@ Package fancyhdr Warning: \headheight is too small (15.0pt):
 
 File: ./img/logo6.png Graphic file (type png)
 <use ./img/logo6.png>
-Package pdftex.def Info: ./img/logo6.png  used on input line 24.
+Package pdftex.def Info: ./img/logo6.png  used on input line 35.
 (pdftex.def)             Requested size: 614.31628pt x 614.31628pt.
 [7]
 File: img/logo_umcc2.png Graphic file (type png)
 <use img/logo_umcc2.png>
-Package pdftex.def Info: img/logo_umcc2.png  used on input line 45.
+Package pdftex.def Info: img/logo_umcc2.png  used on input line 57.
 (pdftex.def)             Requested size: 40.97763pt x 33.43254pt.
 File: img/logo_facultad_fcsh.png Graphic file (type png)
 <use img/logo_facultad_fcsh.png>
-Package pdftex.def Info: img/logo_facultad_fcsh.png  used on input line 45.
+Package pdftex.def Info: img/logo_facultad_fcsh.png  used on input line 57.
 (pdftex.def)             Requested size: 32.29283pt x 32.29283pt.
 
 
@@ -1856,16 +1858,16 @@ Package fancyhdr Warning: \headheight is too small (15.0pt):
 
 File: ./img/logo6.png Graphic file (type png)
 <use ./img/logo6.png>
-Package pdftex.def Info: ./img/logo6.png  used on input line 45.
+Package pdftex.def Info: ./img/logo6.png  used on input line 57.
 (pdftex.def)             Requested size: 614.31628pt x 614.31628pt.
 [8]
 File: img/logo_umcc2.png Graphic file (type png)
 <use img/logo_umcc2.png>
-Package pdftex.def Info: img/logo_umcc2.png  used on input line 56.
+Package pdftex.def Info: img/logo_umcc2.png  used on input line 69.
 (pdftex.def)             Requested size: 40.97763pt x 33.43254pt.
 File: img/logo_facultad_fcsh.png Graphic file (type png)
 <use img/logo_facultad_fcsh.png>
-Package pdftex.def Info: img/logo_facultad_fcsh.png  used on input line 56.
+Package pdftex.def Info: img/logo_facultad_fcsh.png  used on input line 69.
 (pdftex.def)             Requested size: 32.29283pt x 32.29283pt.
 
 
@@ -1878,20 +1880,20 @@ Package fancyhdr Warning: \headheight is too small (15.0pt):
 
 File: ./img/logo6.png Graphic file (type png)
 <use ./img/logo6.png>
-Package pdftex.def Info: ./img/logo6.png  used on input line 56.
+Package pdftex.def Info: ./img/logo6.png  used on input line 69.
 (pdftex.def)             Requested size: 614.31628pt x 614.31628pt.
 [9]
-Underfull \hbox (badness 10000) in paragraph at lines 70--71
+Underfull \hbox (badness 10000) in paragraph at lines 74--75
 
  []
 
 File: img/logo_umcc2.png Graphic file (type png)
 <use img/logo_umcc2.png>
-Package pdftex.def Info: img/logo_umcc2.png  used on input line 76.
+Package pdftex.def Info: img/logo_umcc2.png  used on input line 106.
 (pdftex.def)             Requested size: 40.97763pt x 33.43254pt.
 File: img/logo_facultad_fcsh.png Graphic file (type png)
 <use img/logo_facultad_fcsh.png>
-Package pdftex.def Info: img/logo_facultad_fcsh.png  used on input line 76.
+Package pdftex.def Info: img/logo_facultad_fcsh.png  used on input line 106.
 (pdftex.def)             Requested size: 32.29283pt x 32.29283pt.
 
 Package fancyhdr Warning: \headheight is too small (15.0pt): 
@@ -1903,16 +1905,16 @@ Package fancyhdr Warning: \headheight is too small (15.0pt):
 
 File: ./img/logo6.png Graphic file (type png)
 <use ./img/logo6.png>
-Package pdftex.def Info: ./img/logo6.png  used on input line 76.
+Package pdftex.def Info: ./img/logo6.png  used on input line 106.
 (pdftex.def)             Requested size: 614.31628pt x 614.31628pt.
 [10]
 File: img/logo_umcc2.png Graphic file (type png)
 <use img/logo_umcc2.png>
-Package pdftex.def Info: img/logo_umcc2.png  used on input line 110.
+Package pdftex.def Info: img/logo_umcc2.png  used on input line 126.
 (pdftex.def)             Requested size: 40.97763pt x 33.43254pt.
 File: img/logo_facultad_fcsh.png Graphic file (type png)
 <use img/logo_facultad_fcsh.png>
-Package pdftex.def Info: img/logo_facultad_fcsh.png  used on input line 110.
+Package pdftex.def Info: img/logo_facultad_fcsh.png  used on input line 126.
 (pdftex.def)             Requested size: 32.29283pt x 32.29283pt.
 
 
@@ -1925,16 +1927,16 @@ Package fancyhdr Warning: \headheight is too small (15.0pt):
 
 File: ./img/logo6.png Graphic file (type png)
 <use ./img/logo6.png>
-Package pdftex.def Info: ./img/logo6.png  used on input line 110.
+Package pdftex.def Info: ./img/logo6.png  used on input line 126.
 (pdftex.def)             Requested size: 614.31628pt x 614.31628pt.
-[11]
+[11]) (./tex_files/variable_1_2.tex
 File: img/logo_umcc2.png Graphic file (type png)
 <use img/logo_umcc2.png>
-Package pdftex.def Info: img/logo_umcc2.png  used on input line 123.
+Package pdftex.def Info: img/logo_umcc2.png  used on input line 8.
 (pdftex.def)             Requested size: 40.97763pt x 33.43254pt.
 File: img/logo_facultad_fcsh.png Graphic file (type png)
 <use img/logo_facultad_fcsh.png>
-Package pdftex.def Info: img/logo_facultad_fcsh.png  used on input line 123.
+Package pdftex.def Info: img/logo_facultad_fcsh.png  used on input line 8.
 (pdftex.def)             Requested size: 32.29283pt x 32.29283pt.
 
 
@@ -1947,42 +1949,20 @@ Package fancyhdr Warning: \headheight is too small (15.0pt):
 
 File: ./img/logo6.png Graphic file (type png)
 <use ./img/logo6.png>
-Package pdftex.def Info: ./img/logo6.png  used on input line 123.
+Package pdftex.def Info: ./img/logo6.png  used on input line 8.
 (pdftex.def)             Requested size: 614.31628pt x 614.31628pt.
-[12]) (./tex_files/variable_1_2.tex
-File: img/logo_umcc2.png Graphic file (type png)
-<use img/logo_umcc2.png>
-Package pdftex.def Info: img/logo_umcc2.png  used on input line 11.
-(pdftex.def)             Requested size: 40.97763pt x 33.43254pt.
-File: img/logo_facultad_fcsh.png Graphic file (type png)
-<use img/logo_facultad_fcsh.png>
-Package pdftex.def Info: img/logo_facultad_fcsh.png  used on input line 11.
-(pdftex.def)             Requested size: 32.29283pt x 32.29283pt.
-
-
-Package fancyhdr Warning: \headheight is too small (15.0pt): 
-(fancyhdr)                Make it at least 37.78258pt, for example:
-(fancyhdr)                \setlength{\headheight}{37.78258pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-22.78258pt}.
-
-File: ./img/logo6.png Graphic file (type png)
-<use ./img/logo6.png>
-Package pdftex.def Info: ./img/logo6.png  used on input line 11.
-(pdftex.def)             Requested size: 614.31628pt x 614.31628pt.
-[13]
-Underfull \hbox (badness 10000) in paragraph at lines 16--17
+[12]
+Underfull \hbox (badness 10000) in paragraph at lines 17--18
 
  []
 
 File: img/logo_umcc2.png Graphic file (type png)
 <use img/logo_umcc2.png>
-Package pdftex.def Info: img/logo_umcc2.png  used on input line 25.
+Package pdftex.def Info: img/logo_umcc2.png  used on input line 26.
 (pdftex.def)             Requested size: 40.97763pt x 33.43254pt.
 File: img/logo_facultad_fcsh.png Graphic file (type png)
 <use img/logo_facultad_fcsh.png>
-Package pdftex.def Info: img/logo_facultad_fcsh.png  used on input line 25.
+Package pdftex.def Info: img/logo_facultad_fcsh.png  used on input line 26.
 (pdftex.def)             Requested size: 32.29283pt x 32.29283pt.
 
 Package fancyhdr Warning: \headheight is too small (15.0pt): 
@@ -1994,9 +1974,9 @@ Package fancyhdr Warning: \headheight is too small (15.0pt):
 
 File: ./img/logo6.png Graphic file (type png)
 <use ./img/logo6.png>
-Package pdftex.def Info: ./img/logo6.png  used on input line 25.
+Package pdftex.def Info: ./img/logo6.png  used on input line 26.
 (pdftex.def)             Requested size: 614.31628pt x 614.31628pt.
-[14]))
+[13]))
 File: img/logo_umcc2.png Graphic file (type png)
 <use img/logo_umcc2.png>
 Package pdftex.def Info: img/logo_umcc2.png  used on input line 268.
@@ -2018,16 +1998,16 @@ File: ./img/logo6.png Graphic file (type png)
 <use ./img/logo6.png>
 Package pdftex.def Info: ./img/logo6.png  used on input line 268.
 (pdftex.def)             Requested size: 614.31628pt x 614.31628pt.
-[15]
+[14]
 Cap\'{\i }tulo 2.
 (./tex_files/variable_2.tex (./tex_files/variable_2_1.tex
 File: img/logo_umcc2.png Graphic file (type png)
 <use img/logo_umcc2.png>
-Package pdftex.def Info: img/logo_umcc2.png  used on input line 11.
+Package pdftex.def Info: img/logo_umcc2.png  used on input line 13.
 (pdftex.def)             Requested size: 40.97763pt x 33.43254pt.
 File: img/logo_facultad_fcsh.png Graphic file (type png)
 <use img/logo_facultad_fcsh.png>
-Package pdftex.def Info: img/logo_facultad_fcsh.png  used on input line 11.
+Package pdftex.def Info: img/logo_facultad_fcsh.png  used on input line 13.
 (pdftex.def)             Requested size: 32.29283pt x 32.29283pt.
 
 
@@ -2040,18 +2020,18 @@ Package fancyhdr Warning: \headheight is too small (15.0pt):
 
 File: ./img/logo6.png Graphic file (type png)
 <use ./img/logo6.png>
-Package pdftex.def Info: ./img/logo6.png  used on input line 11.
+Package pdftex.def Info: ./img/logo6.png  used on input line 13.
 (pdftex.def)             Requested size: 614.31628pt x 614.31628pt.
-[16
+[15
 
-]
+])
 File: img/logo_umcc2.png Graphic file (type png)
 <use img/logo_umcc2.png>
-Package pdftex.def Info: img/logo_umcc2.png  used on input line 20.
+Package pdftex.def Info: img/logo_umcc2.png  used on input line 4.
 (pdftex.def)             Requested size: 40.97763pt x 33.43254pt.
 File: img/logo_facultad_fcsh.png Graphic file (type png)
 <use img/logo_facultad_fcsh.png>
-Package pdftex.def Info: img/logo_facultad_fcsh.png  used on input line 20.
+Package pdftex.def Info: img/logo_facultad_fcsh.png  used on input line 4.
 (pdftex.def)             Requested size: 32.29283pt x 32.29283pt.
 
 
@@ -2064,20 +2044,20 @@ Package fancyhdr Warning: \headheight is too small (15.0pt):
 
 File: ./img/logo6.png Graphic file (type png)
 <use ./img/logo6.png>
-Package pdftex.def Info: ./img/logo6.png  used on input line 20.
+Package pdftex.def Info: ./img/logo6.png  used on input line 4.
 (pdftex.def)             Requested size: 614.31628pt x 614.31628pt.
-[17]) (./tex_files/variable_2_2.tex
+[16] (./tex_files/variable_2_2.tex
 Underfull \vbox (badness 10000) detected at line 13
  []
 
 ) (./tex_files/variable_2_3.tex
 File: img/logo_umcc2.png Graphic file (type png)
 <use img/logo_umcc2.png>
-Package pdftex.def Info: img/logo_umcc2.png  used on input line 3.
+Package pdftex.def Info: img/logo_umcc2.png  used on input line 7.
 (pdftex.def)             Requested size: 40.97763pt x 33.43254pt.
 File: img/logo_facultad_fcsh.png Graphic file (type png)
 <use img/logo_facultad_fcsh.png>
-Package pdftex.def Info: img/logo_facultad_fcsh.png  used on input line 3.
+Package pdftex.def Info: img/logo_facultad_fcsh.png  used on input line 7.
 (pdftex.def)             Requested size: 32.29283pt x 32.29283pt.
 
 
@@ -2090,16 +2070,16 @@ Package fancyhdr Warning: \headheight is too small (15.0pt):
 
 File: ./img/logo6.png Graphic file (type png)
 <use ./img/logo6.png>
-Package pdftex.def Info: ./img/logo6.png  used on input line 3.
+Package pdftex.def Info: ./img/logo6.png  used on input line 7.
 (pdftex.def)             Requested size: 614.31628pt x 614.31628pt.
-[18]
+[17]
 File: img/logo_umcc2.png Graphic file (type png)
 <use img/logo_umcc2.png>
-Package pdftex.def Info: img/logo_umcc2.png  used on input line 24.
+Package pdftex.def Info: img/logo_umcc2.png  used on input line 36.
 (pdftex.def)             Requested size: 40.97763pt x 33.43254pt.
 File: img/logo_facultad_fcsh.png Graphic file (type png)
 <use img/logo_facultad_fcsh.png>
-Package pdftex.def Info: img/logo_facultad_fcsh.png  used on input line 24.
+Package pdftex.def Info: img/logo_facultad_fcsh.png  used on input line 36.
 (pdftex.def)             Requested size: 32.29283pt x 32.29283pt.
 
 
@@ -2112,16 +2092,16 @@ Package fancyhdr Warning: \headheight is too small (15.0pt):
 
 File: ./img/logo6.png Graphic file (type png)
 <use ./img/logo6.png>
-Package pdftex.def Info: ./img/logo6.png  used on input line 24.
+Package pdftex.def Info: ./img/logo6.png  used on input line 36.
 (pdftex.def)             Requested size: 614.31628pt x 614.31628pt.
-[19]) (./tex_files/variable_2_4.tex)
+[18]) (./tex_files/variable_2_4.tex) (./tex_files/variable_2_5.tex
 File: img/logo_umcc2.png Graphic file (type png)
 <use img/logo_umcc2.png>
-Package pdftex.def Info: img/logo_umcc2.png  used on input line 16.
+Package pdftex.def Info: img/logo_umcc2.png  used on input line 2.
 (pdftex.def)             Requested size: 40.97763pt x 33.43254pt.
 File: img/logo_facultad_fcsh.png Graphic file (type png)
 <use img/logo_facultad_fcsh.png>
-Package pdftex.def Info: img/logo_facultad_fcsh.png  used on input line 16.
+Package pdftex.def Info: img/logo_facultad_fcsh.png  used on input line 2.
 (pdftex.def)             Requested size: 32.29283pt x 32.29283pt.
 
 
@@ -2134,19 +2114,19 @@ Package fancyhdr Warning: \headheight is too small (15.0pt):
 
 File: ./img/logo6.png Graphic file (type png)
 <use ./img/logo6.png>
-Package pdftex.def Info: ./img/logo6.png  used on input line 16.
+Package pdftex.def Info: ./img/logo6.png  used on input line 2.
 (pdftex.def)             Requested size: 614.31628pt x 614.31628pt.
-[20] (./tex_files/variable_2_5.tex
-Underfull \vbox (badness 10000) detected at line 29
+[19]
+Underfull \vbox (badness 10000) detected at line 24
  []
 
 File: img/logo_umcc2.png Graphic file (type png)
 <use img/logo_umcc2.png>
-Package pdftex.def Info: img/logo_umcc2.png  used on input line 29.
+Package pdftex.def Info: img/logo_umcc2.png  used on input line 36.
 (pdftex.def)             Requested size: 40.97763pt x 33.43254pt.
 File: img/logo_facultad_fcsh.png Graphic file (type png)
 <use img/logo_facultad_fcsh.png>
-Package pdftex.def Info: img/logo_facultad_fcsh.png  used on input line 29.
+Package pdftex.def Info: img/logo_facultad_fcsh.png  used on input line 36.
 (pdftex.def)             Requested size: 32.29283pt x 32.29283pt.
 
 Package fancyhdr Warning: \headheight is too small (15.0pt): 
@@ -2158,42 +2138,20 @@ Package fancyhdr Warning: \headheight is too small (15.0pt):
 
 File: ./img/logo6.png Graphic file (type png)
 <use ./img/logo6.png>
-Package pdftex.def Info: ./img/logo6.png  used on input line 29.
+Package pdftex.def Info: ./img/logo6.png  used on input line 36.
 (pdftex.def)             Requested size: 614.31628pt x 614.31628pt.
-[21]
-File: img/logo_umcc2.png Graphic file (type png)
-<use img/logo_umcc2.png>
-Package pdftex.def Info: img/logo_umcc2.png  used on input line 47.
-(pdftex.def)             Requested size: 40.97763pt x 33.43254pt.
-File: img/logo_facultad_fcsh.png Graphic file (type png)
-<use img/logo_facultad_fcsh.png>
-Package pdftex.def Info: img/logo_facultad_fcsh.png  used on input line 47.
-(pdftex.def)             Requested size: 32.29283pt x 32.29283pt.
-
-
-Package fancyhdr Warning: \headheight is too small (15.0pt): 
-(fancyhdr)                Make it at least 37.78258pt, for example:
-(fancyhdr)                \setlength{\headheight}{37.78258pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-22.78258pt}.
-
-File: ./img/logo6.png Graphic file (type png)
-<use ./img/logo6.png>
-Package pdftex.def Info: ./img/logo6.png  used on input line 47.
-(pdftex.def)             Requested size: 614.31628pt x 614.31628pt.
-[22]) (./tex_files/variable_2_6.tex
+[20]) (./tex_files/variable_2_6.tex
 Underfull \hbox (badness 10000) in paragraph at lines 9--10
 
  []
 
 File: img/logo_umcc2.png Graphic file (type png)
 <use img/logo_umcc2.png>
-Package pdftex.def Info: img/logo_umcc2.png  used on input line 11.
+Package pdftex.def Info: img/logo_umcc2.png  used on input line 10.
 (pdftex.def)             Requested size: 40.97763pt x 33.43254pt.
 File: img/logo_facultad_fcsh.png Graphic file (type png)
 <use img/logo_facultad_fcsh.png>
-Package pdftex.def Info: img/logo_facultad_fcsh.png  used on input line 11.
+Package pdftex.def Info: img/logo_facultad_fcsh.png  used on input line 10.
 (pdftex.def)             Requested size: 32.29283pt x 32.29283pt.
 
 Package fancyhdr Warning: \headheight is too small (15.0pt): 
@@ -2205,9 +2163,9 @@ Package fancyhdr Warning: \headheight is too small (15.0pt):
 
 File: ./img/logo6.png Graphic file (type png)
 <use ./img/logo6.png>
-Package pdftex.def Info: ./img/logo6.png  used on input line 11.
+Package pdftex.def Info: ./img/logo6.png  used on input line 10.
 (pdftex.def)             Requested size: 614.31628pt x 614.31628pt.
-[23]))
+[21]))
 File: img/logo_umcc2.png Graphic file (type png)
 <use img/logo_umcc2.png>
 Package pdftex.def Info: img/logo_umcc2.png  used on input line 273.
@@ -2229,7 +2187,7 @@ File: ./img/logo6.png Graphic file (type png)
 <use ./img/logo6.png>
 Package pdftex.def Info: ./img/logo6.png  used on input line 273.
 (pdftex.def)             Requested size: 614.31628pt x 614.31628pt.
-[24]
+[22]
 Cap\'{\i }tulo 3.
 (./tex_files/variable_3.tex (./tex_files/variable_3_1.tex
 File: img/logo_umcc2.png Graphic file (type png)
@@ -2253,16 +2211,16 @@ File: ./img/logo6.png Graphic file (type png)
 <use ./img/logo6.png>
 Package pdftex.def Info: ./img/logo6.png  used on input line 12.
 (pdftex.def)             Requested size: 614.31628pt x 614.31628pt.
-[25
+[23
 
 ]
 File: img/logo_umcc2.png Graphic file (type png)
 <use img/logo_umcc2.png>
-Package pdftex.def Info: img/logo_umcc2.png  used on input line 25.
+Package pdftex.def Info: img/logo_umcc2.png  used on input line 31.
 (pdftex.def)             Requested size: 40.97763pt x 33.43254pt.
 File: img/logo_facultad_fcsh.png Graphic file (type png)
 <use img/logo_facultad_fcsh.png>
-Package pdftex.def Info: img/logo_facultad_fcsh.png  used on input line 25.
+Package pdftex.def Info: img/logo_facultad_fcsh.png  used on input line 31.
 (pdftex.def)             Requested size: 32.29283pt x 32.29283pt.
 
 
@@ -2275,10 +2233,10 @@ Package fancyhdr Warning: \headheight is too small (15.0pt):
 
 File: ./img/logo6.png Graphic file (type png)
 <use ./img/logo6.png>
-Package pdftex.def Info: ./img/logo6.png  used on input line 25.
+Package pdftex.def Info: ./img/logo6.png  used on input line 31.
 (pdftex.def)             Requested size: 614.31628pt x 614.31628pt.
-[26]
-Underfull \vbox (badness 10000) detected at line 84
+[24]
+Underfull \vbox (badness 10000) detected at line 86
  []
 
 File: img/logo_umcc2.png Graphic file (type png)
@@ -2301,7 +2259,7 @@ File: ./img/logo6.png Graphic file (type png)
 <use ./img/logo6.png>
 Package pdftex.def Info: ./img/logo6.png  used on input line 90.
 (pdftex.def)             Requested size: 614.31628pt x 614.31628pt.
-[27]
+[25]
 Underfull \vbox (badness 10000) detected at line 138
  []
 
@@ -2325,14 +2283,80 @@ File: ./img/logo6.png Graphic file (type png)
 <use ./img/logo6.png>
 Package pdftex.def Info: ./img/logo6.png  used on input line 181.
 (pdftex.def)             Requested size: 614.31628pt x 614.31628pt.
+[26]
+File: img/logo_umcc2.png Graphic file (type png)
+<use img/logo_umcc2.png>
+Package pdftex.def Info: img/logo_umcc2.png  used on input line 207.
+(pdftex.def)             Requested size: 40.97763pt x 33.43254pt.
+File: img/logo_facultad_fcsh.png Graphic file (type png)
+<use img/logo_facultad_fcsh.png>
+Package pdftex.def Info: img/logo_facultad_fcsh.png  used on input line 207.
+(pdftex.def)             Requested size: 32.29283pt x 32.29283pt.
+
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 37.78258pt, for example:
+(fancyhdr)                \setlength{\headheight}{37.78258pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-22.78258pt}.
+
+File: ./img/logo6.png Graphic file (type png)
+<use ./img/logo6.png>
+Package pdftex.def Info: ./img/logo6.png  used on input line 207.
+(pdftex.def)             Requested size: 614.31628pt x 614.31628pt.
+[27]
+Overfull \hbox (3.67026pt too wide) in alignment at lines 213--215
+ [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (3.67026pt too wide) in alignment at lines 215--219
+ [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (3.67026pt too wide) in alignment at lines 219--262
+ [] [] [] [] [] 
+ []
+
+
+Underfull \vbox (badness 10000) detected at line 262
+ []
+
+
+Overfull \hbox (3.67026pt too wide) in alignment at lines 262--278
+ [] [] [] [] [] 
+ []
+
+File: img/logo_umcc2.png Graphic file (type png)
+<use img/logo_umcc2.png>
+Package pdftex.def Info: img/logo_umcc2.png  used on input line 278.
+(pdftex.def)             Requested size: 40.97763pt x 33.43254pt.
+File: img/logo_facultad_fcsh.png Graphic file (type png)
+<use img/logo_facultad_fcsh.png>
+Package pdftex.def Info: img/logo_facultad_fcsh.png  used on input line 278.
+(pdftex.def)             Requested size: 32.29283pt x 32.29283pt.
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 37.78258pt, for example:
+(fancyhdr)                \setlength{\headheight}{37.78258pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-22.78258pt}.
+
+File: ./img/logo6.png Graphic file (type png)
+<use ./img/logo6.png>
+Package pdftex.def Info: ./img/logo6.png  used on input line 278.
+(pdftex.def)             Requested size: 614.31628pt x 614.31628pt.
 [28]
 File: img/logo_umcc2.png Graphic file (type png)
 <use img/logo_umcc2.png>
-Package pdftex.def Info: img/logo_umcc2.png  used on input line 209.
+Package pdftex.def Info: img/logo_umcc2.png  used on input line 278.
 (pdftex.def)             Requested size: 40.97763pt x 33.43254pt.
 File: img/logo_facultad_fcsh.png Graphic file (type png)
 <use img/logo_facultad_fcsh.png>
-Package pdftex.def Info: img/logo_facultad_fcsh.png  used on input line 209.
+Package pdftex.def Info: img/logo_facultad_fcsh.png  used on input line 278.
 (pdftex.def)             Requested size: 32.29283pt x 32.29283pt.
 
 
@@ -2345,16 +2369,20 @@ Package fancyhdr Warning: \headheight is too small (15.0pt):
 
 File: ./img/logo6.png Graphic file (type png)
 <use ./img/logo6.png>
-Package pdftex.def Info: ./img/logo6.png  used on input line 209.
+Package pdftex.def Info: ./img/logo6.png  used on input line 278.
 (pdftex.def)             Requested size: 614.31628pt x 614.31628pt.
 [29]
+Underfull \vbox (badness 10000) detected at line 290
+ []
+
+)
 File: img/logo_umcc2.png Graphic file (type png)
 <use img/logo_umcc2.png>
-Package pdftex.def Info: img/logo_umcc2.png  used on input line 214.
+Package pdftex.def Info: img/logo_umcc2.png  used on input line 4.
 (pdftex.def)             Requested size: 40.97763pt x 33.43254pt.
 File: img/logo_facultad_fcsh.png Graphic file (type png)
 <use img/logo_facultad_fcsh.png>
-Package pdftex.def Info: img/logo_facultad_fcsh.png  used on input line 214.
+Package pdftex.def Info: img/logo_facultad_fcsh.png  used on input line 4.
 (pdftex.def)             Requested size: 32.29283pt x 32.29283pt.
 
 
@@ -2367,112 +2395,54 @@ Package fancyhdr Warning: \headheight is too small (15.0pt):
 
 File: ./img/logo6.png Graphic file (type png)
 <use ./img/logo6.png>
-Package pdftex.def Info: ./img/logo6.png  used on input line 214.
+Package pdftex.def Info: ./img/logo6.png  used on input line 4.
 (pdftex.def)             Requested size: 614.31628pt x 614.31628pt.
-[30]
-Overfull \hbox (3.67026pt too wide) in alignment at lines 215--217
- [] [] [] [] [] 
- []
-
-
-Overfull \hbox (3.67026pt too wide) in alignment at lines 217--221
- [] [] [] [] [] 
- []
-
-
-Overfull \hbox (3.67026pt too wide) in alignment at lines 221--264
- [] [] [] [] [] 
- []
-
-
-Underfull \vbox (badness 10000) detected at line 264
- []
-
-
-Overfull \hbox (3.67026pt too wide) in alignment at lines 264--280
- [] [] [] [] [] 
- []
-
-File: img/logo_umcc2.png Graphic file (type png)
-<use img/logo_umcc2.png>
-Package pdftex.def Info: img/logo_umcc2.png  used on input line 280.
-(pdftex.def)             Requested size: 40.97763pt x 33.43254pt.
-File: img/logo_facultad_fcsh.png Graphic file (type png)
-<use img/logo_facultad_fcsh.png>
-Package pdftex.def Info: img/logo_facultad_fcsh.png  used on input line 280.
-(pdftex.def)             Requested size: 32.29283pt x 32.29283pt.
-
-Package fancyhdr Warning: \headheight is too small (15.0pt): 
-(fancyhdr)                Make it at least 37.78258pt, for example:
-(fancyhdr)                \setlength{\headheight}{37.78258pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-22.78258pt}.
-
-File: ./img/logo6.png Graphic file (type png)
-<use ./img/logo6.png>
-Package pdftex.def Info: ./img/logo6.png  used on input line 280.
-(pdftex.def)             Requested size: 614.31628pt x 614.31628pt.
-[31]
-Underfull \vbox (badness 10000) detected at line 292
- []
-
-File: img/logo_umcc2.png Graphic file (type png)
-<use img/logo_umcc2.png>
-Package pdftex.def Info: img/logo_umcc2.png  used on input line 295.
-(pdftex.def)             Requested size: 40.97763pt x 33.43254pt.
-File: img/logo_facultad_fcsh.png Graphic file (type png)
-<use img/logo_facultad_fcsh.png>
-Package pdftex.def Info: img/logo_facultad_fcsh.png  used on input line 295.
-(pdftex.def)             Requested size: 32.29283pt x 32.29283pt.
-
-Package fancyhdr Warning: \headheight is too small (15.0pt): 
-(fancyhdr)                Make it at least 37.78258pt, for example:
-(fancyhdr)                \setlength{\headheight}{37.78258pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-22.78258pt}.
-
-File: ./img/logo6.png Graphic file (type png)
-<use ./img/logo6.png>
-Package pdftex.def Info: ./img/logo6.png  used on input line 295.
-(pdftex.def)             Requested size: 614.31628pt x 614.31628pt.
-[32]) (./tex_files/variable_3_2.tex
-Overfull \hbox (2.87894pt too wide) in paragraph at lines 8--8
-[]|$[]$| 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 13--13
-[]|\T1/ptm/m/n/12 2017-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 15--15
-[]|\T1/ptm/m/n/12 2018-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 17--17
-[]|\T1/ptm/m/n/12 2019-
- []
-
-
-Overfull \hbox (20.78458pt too wide) in alignment at lines 5--25
+[30] (./tex_files/variable_3_2.tex
+Overfull \hbox (20.78458pt too wide) in alignment at lines 5--6
  [] [] [] [] [] [] [] [] [] [] [] 
  []
 
 
-Underfull \vbox (badness 10000) detected at line 25
+Overfull \hbox (20.78458pt too wide) in alignment at lines 6--10
+ [] [] [] [] [] [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (2.87894pt too wide) in paragraph at lines 14--14
+[]|$[]$| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 19--19
+[]|\T1/ptm/m/n/12 2017-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 21--21
+[]|\T1/ptm/m/n/12 2018-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 23--23
+[]|\T1/ptm/m/n/12 2019-
+ []
+
+
+Overfull \hbox (20.78458pt too wide) in alignment at lines 10--31
+ [] [] [] [] [] [] [] [] [] [] [] 
+ []
+
+
+Underfull \vbox (badness 10000) detected at line 31
  []
 
 File: img/logo_umcc2.png Graphic file (type png)
 <use img/logo_umcc2.png>
-Package pdftex.def Info: img/logo_umcc2.png  used on input line 25.
+Package pdftex.def Info: img/logo_umcc2.png  used on input line 31.
 (pdftex.def)             Requested size: 40.97763pt x 33.43254pt.
 File: img/logo_facultad_fcsh.png Graphic file (type png)
 <use img/logo_facultad_fcsh.png>
-Package pdftex.def Info: img/logo_facultad_fcsh.png  used on input line 25.
+Package pdftex.def Info: img/logo_facultad_fcsh.png  used on input line 31.
 (pdftex.def)             Requested size: 32.29283pt x 32.29283pt.
 
 Package fancyhdr Warning: \headheight is too small (15.0pt): 
@@ -2484,19 +2454,19 @@ Package fancyhdr Warning: \headheight is too small (15.0pt):
 
 File: ./img/logo6.png Graphic file (type png)
 <use ./img/logo6.png>
-Package pdftex.def Info: ./img/logo6.png  used on input line 25.
+Package pdftex.def Info: ./img/logo6.png  used on input line 31.
 (pdftex.def)             Requested size: 614.31628pt x 614.31628pt.
-[33]
-Underfull \vbox (badness 10000) detected at line 68
+[31]
+Underfull \vbox (badness 10000) detected at line 79
  []
 
 File: img/logo_umcc2.png Graphic file (type png)
 <use img/logo_umcc2.png>
-Package pdftex.def Info: img/logo_umcc2.png  used on input line 68.
+Package pdftex.def Info: img/logo_umcc2.png  used on input line 79.
 (pdftex.def)             Requested size: 40.97763pt x 33.43254pt.
 File: img/logo_facultad_fcsh.png Graphic file (type png)
 <use img/logo_facultad_fcsh.png>
-Package pdftex.def Info: img/logo_facultad_fcsh.png  used on input line 68.
+Package pdftex.def Info: img/logo_facultad_fcsh.png  used on input line 79.
 (pdftex.def)             Requested size: 32.29283pt x 32.29283pt.
 
 Package fancyhdr Warning: \headheight is too small (15.0pt): 
@@ -2508,457 +2478,9 @@ Package fancyhdr Warning: \headheight is too small (15.0pt):
 
 File: ./img/logo6.png Graphic file (type png)
 <use ./img/logo6.png>
-Package pdftex.def Info: ./img/logo6.png  used on input line 68.
+Package pdftex.def Info: ./img/logo6.png  used on input line 79.
 (pdftex.def)             Requested size: 614.31628pt x 614.31628pt.
-[34]) (./tex_files/variable_3_3.tex
-File: img/logo_umcc2.png Graphic file (type png)
-<use img/logo_umcc2.png>
-Package pdftex.def Info: img/logo_umcc2.png  used on input line 4.
-(pdftex.def)             Requested size: 40.97763pt x 33.43254pt.
-File: img/logo_facultad_fcsh.png Graphic file (type png)
-<use img/logo_facultad_fcsh.png>
-Package pdftex.def Info: img/logo_facultad_fcsh.png  used on input line 4.
-(pdftex.def)             Requested size: 32.29283pt x 32.29283pt.
-
-
-Package fancyhdr Warning: \headheight is too small (15.0pt): 
-(fancyhdr)                Make it at least 37.78258pt, for example:
-(fancyhdr)                \setlength{\headheight}{37.78258pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-22.78258pt}.
-
-File: ./img/logo6.png Graphic file (type png)
-<use ./img/logo6.png>
-Package pdftex.def Info: ./img/logo6.png  used on input line 4.
-(pdftex.def)             Requested size: 614.31628pt x 614.31628pt.
-[35]
-Underfull \vbox (badness 10000) detected at line 37
- []
-
-) (./tex_files/variable_3_4.tex
-File: img/logo_umcc2.png Graphic file (type png)
-<use img/logo_umcc2.png>
-Package pdftex.def Info: img/logo_umcc2.png  used on input line 4.
-(pdftex.def)             Requested size: 40.97763pt x 33.43254pt.
-File: img/logo_facultad_fcsh.png Graphic file (type png)
-<use img/logo_facultad_fcsh.png>
-Package pdftex.def Info: img/logo_facultad_fcsh.png  used on input line 4.
-(pdftex.def)             Requested size: 32.29283pt x 32.29283pt.
-
-
-Package fancyhdr Warning: \headheight is too small (15.0pt): 
-(fancyhdr)                Make it at least 37.78258pt, for example:
-(fancyhdr)                \setlength{\headheight}{37.78258pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-22.78258pt}.
-
-File: ./img/logo6.png Graphic file (type png)
-<use ./img/logo6.png>
-Package pdftex.def Info: ./img/logo6.png  used on input line 4.
-(pdftex.def)             Requested size: 614.31628pt x 614.31628pt.
-[36]
-Underfull \hbox (badness 10000) in paragraph at lines 9--10
-
- []
-
-File: img/logo_umcc2.png Graphic file (type png)
-<use img/logo_umcc2.png>
-Package pdftex.def Info: img/logo_umcc2.png  used on input line 19.
-(pdftex.def)             Requested size: 40.97763pt x 33.43254pt.
-File: img/logo_facultad_fcsh.png Graphic file (type png)
-<use img/logo_facultad_fcsh.png>
-Package pdftex.def Info: img/logo_facultad_fcsh.png  used on input line 19.
-(pdftex.def)             Requested size: 32.29283pt x 32.29283pt.
-
-Package fancyhdr Warning: \headheight is too small (15.0pt): 
-(fancyhdr)                Make it at least 37.78258pt, for example:
-(fancyhdr)                \setlength{\headheight}{37.78258pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-22.78258pt}.
-
-File: ./img/logo6.png Graphic file (type png)
-<use ./img/logo6.png>
-Package pdftex.def Info: ./img/logo6.png  used on input line 19.
-(pdftex.def)             Requested size: 614.31628pt x 614.31628pt.
-[37]))
-File: img/logo_umcc2.png Graphic file (type png)
-<use img/logo_umcc2.png>
-Package pdftex.def Info: img/logo_umcc2.png  used on input line 277.
-(pdftex.def)             Requested size: 40.97763pt x 33.43254pt.
-File: img/logo_facultad_fcsh.png Graphic file (type png)
-<use img/logo_facultad_fcsh.png>
-Package pdftex.def Info: img/logo_facultad_fcsh.png  used on input line 277.
-(pdftex.def)             Requested size: 32.29283pt x 32.29283pt.
-
-
-Package fancyhdr Warning: \headheight is too small (15.0pt): 
-(fancyhdr)                Make it at least 37.78258pt, for example:
-(fancyhdr)                \setlength{\headheight}{37.78258pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-22.78258pt}.
-
-File: ./img/logo6.png Graphic file (type png)
-<use ./img/logo6.png>
-Package pdftex.def Info: ./img/logo6.png  used on input line 277.
-(pdftex.def)             Requested size: 614.31628pt x 614.31628pt.
-[38]
-Cap\'{\i }tulo 4.
-(./tex_files/variable_4.tex (./tex_files/variable_4_1.tex
-File: img/logo_umcc2.png Graphic file (type png)
-<use img/logo_umcc2.png>
-Package pdftex.def Info: img/logo_umcc2.png  used on input line 10.
-(pdftex.def)             Requested size: 40.97763pt x 33.43254pt.
-File: img/logo_facultad_fcsh.png Graphic file (type png)
-<use img/logo_facultad_fcsh.png>
-Package pdftex.def Info: img/logo_facultad_fcsh.png  used on input line 10.
-(pdftex.def)             Requested size: 32.29283pt x 32.29283pt.
-
-
-Package fancyhdr Warning: \headheight is too small (15.0pt): 
-(fancyhdr)                Make it at least 37.78258pt, for example:
-(fancyhdr)                \setlength{\headheight}{37.78258pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-22.78258pt}.
-
-File: ./img/logo6.png Graphic file (type png)
-<use ./img/logo6.png>
-Package pdftex.def Info: ./img/logo6.png  used on input line 10.
-(pdftex.def)             Requested size: 614.31628pt x 614.31628pt.
-[39
-
-]) (./tex_files/variable_4_2.tex
-File: img/logo_umcc2.png Graphic file (type png)
-<use img/logo_umcc2.png>
-Package pdftex.def Info: img/logo_umcc2.png  used on input line 2.
-(pdftex.def)             Requested size: 40.97763pt x 33.43254pt.
-File: img/logo_facultad_fcsh.png Graphic file (type png)
-<use img/logo_facultad_fcsh.png>
-Package pdftex.def Info: img/logo_facultad_fcsh.png  used on input line 2.
-(pdftex.def)             Requested size: 32.29283pt x 32.29283pt.
-
-
-Package fancyhdr Warning: \headheight is too small (15.0pt): 
-(fancyhdr)                Make it at least 37.78258pt, for example:
-(fancyhdr)                \setlength{\headheight}{37.78258pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-22.78258pt}.
-
-File: ./img/logo6.png Graphic file (type png)
-<use ./img/logo6.png>
-Package pdftex.def Info: ./img/logo6.png  used on input line 2.
-(pdftex.def)             Requested size: 614.31628pt x 614.31628pt.
-[40]) (./tex_files/variable_4_3.tex
-Underfull \vbox (badness 10000) detected at line 14
- []
-
-File: img/logo_umcc2.png Graphic file (type png)
-<use img/logo_umcc2.png>
-Package pdftex.def Info: img/logo_umcc2.png  used on input line 14.
-(pdftex.def)             Requested size: 40.97763pt x 33.43254pt.
-File: img/logo_facultad_fcsh.png Graphic file (type png)
-<use img/logo_facultad_fcsh.png>
-Package pdftex.def Info: img/logo_facultad_fcsh.png  used on input line 14.
-(pdftex.def)             Requested size: 32.29283pt x 32.29283pt.
-
-Package fancyhdr Warning: \headheight is too small (15.0pt): 
-(fancyhdr)                Make it at least 37.78258pt, for example:
-(fancyhdr)                \setlength{\headheight}{37.78258pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-22.78258pt}.
-
-File: ./img/logo6.png Graphic file (type png)
-<use ./img/logo6.png>
-Package pdftex.def Info: ./img/logo6.png  used on input line 14.
-(pdftex.def)             Requested size: 614.31628pt x 614.31628pt.
-[41]
-Underfull \vbox (badness 10000) detected at line 33
- []
-
-File: img/logo_umcc2.png Graphic file (type png)
-<use img/logo_umcc2.png>
-Package pdftex.def Info: img/logo_umcc2.png  used on input line 40.
-(pdftex.def)             Requested size: 40.97763pt x 33.43254pt.
-File: img/logo_facultad_fcsh.png Graphic file (type png)
-<use img/logo_facultad_fcsh.png>
-Package pdftex.def Info: img/logo_facultad_fcsh.png  used on input line 40.
-(pdftex.def)             Requested size: 32.29283pt x 32.29283pt.
-
-Package fancyhdr Warning: \headheight is too small (15.0pt): 
-(fancyhdr)                Make it at least 37.78258pt, for example:
-(fancyhdr)                \setlength{\headheight}{37.78258pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-22.78258pt}.
-
-File: ./img/logo6.png Graphic file (type png)
-<use ./img/logo6.png>
-Package pdftex.def Info: ./img/logo6.png  used on input line 40.
-(pdftex.def)             Requested size: 614.31628pt x 614.31628pt.
-[42]
-Underfull \vbox (badness 10000) detected at line 50
- []
-
-) (./tex_files/variable_4_4.tex
-File: img/logo_umcc2.png Graphic file (type png)
-<use img/logo_umcc2.png>
-Package pdftex.def Info: img/logo_umcc2.png  used on input line 11.
-(pdftex.def)             Requested size: 40.97763pt x 33.43254pt.
-File: img/logo_facultad_fcsh.png Graphic file (type png)
-<use img/logo_facultad_fcsh.png>
-Package pdftex.def Info: img/logo_facultad_fcsh.png  used on input line 11.
-(pdftex.def)             Requested size: 32.29283pt x 32.29283pt.
-
-
-Package fancyhdr Warning: \headheight is too small (15.0pt): 
-(fancyhdr)                Make it at least 37.78258pt, for example:
-(fancyhdr)                \setlength{\headheight}{37.78258pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-22.78258pt}.
-
-File: ./img/logo6.png Graphic file (type png)
-<use ./img/logo6.png>
-Package pdftex.def Info: ./img/logo6.png  used on input line 11.
-(pdftex.def)             Requested size: 614.31628pt x 614.31628pt.
-[43]
-Underfull \hbox (badness 10000) in paragraph at lines 15--16
-
- []
-
-File: img/logo_umcc2.png Graphic file (type png)
-<use img/logo_umcc2.png>
-Package pdftex.def Info: img/logo_umcc2.png  used on input line 25.
-(pdftex.def)             Requested size: 40.97763pt x 33.43254pt.
-File: img/logo_facultad_fcsh.png Graphic file (type png)
-<use img/logo_facultad_fcsh.png>
-Package pdftex.def Info: img/logo_facultad_fcsh.png  used on input line 25.
-(pdftex.def)             Requested size: 32.29283pt x 32.29283pt.
-
-Package fancyhdr Warning: \headheight is too small (15.0pt): 
-(fancyhdr)                Make it at least 37.78258pt, for example:
-(fancyhdr)                \setlength{\headheight}{37.78258pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-22.78258pt}.
-
-File: ./img/logo6.png Graphic file (type png)
-<use ./img/logo6.png>
-Package pdftex.def Info: ./img/logo6.png  used on input line 25.
-(pdftex.def)             Requested size: 614.31628pt x 614.31628pt.
-[44]))
-File: img/logo_umcc2.png Graphic file (type png)
-<use img/logo_umcc2.png>
-Package pdftex.def Info: img/logo_umcc2.png  used on input line 281.
-(pdftex.def)             Requested size: 40.97763pt x 33.43254pt.
-File: img/logo_facultad_fcsh.png Graphic file (type png)
-<use img/logo_facultad_fcsh.png>
-Package pdftex.def Info: img/logo_facultad_fcsh.png  used on input line 281.
-(pdftex.def)             Requested size: 32.29283pt x 32.29283pt.
-
-
-Package fancyhdr Warning: \headheight is too small (15.0pt): 
-(fancyhdr)                Make it at least 37.78258pt, for example:
-(fancyhdr)                \setlength{\headheight}{37.78258pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-22.78258pt}.
-
-File: ./img/logo6.png Graphic file (type png)
-<use ./img/logo6.png>
-Package pdftex.def Info: ./img/logo6.png  used on input line 281.
-(pdftex.def)             Requested size: 614.31628pt x 614.31628pt.
-[45]
-Cap\'{\i }tulo 5.
-(./tex_files/variable_5.tex (./tex_files/variable_5_1.tex
-File: img/logo_umcc2.png Graphic file (type png)
-<use img/logo_umcc2.png>
-Package pdftex.def Info: img/logo_umcc2.png  used on input line 4.
-(pdftex.def)             Requested size: 40.97763pt x 33.43254pt.
-File: img/logo_facultad_fcsh.png Graphic file (type png)
-<use img/logo_facultad_fcsh.png>
-Package pdftex.def Info: img/logo_facultad_fcsh.png  used on input line 4.
-(pdftex.def)             Requested size: 32.29283pt x 32.29283pt.
-
-
-Package fancyhdr Warning: \headheight is too small (15.0pt): 
-(fancyhdr)                Make it at least 37.78258pt, for example:
-(fancyhdr)                \setlength{\headheight}{37.78258pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-22.78258pt}.
-
-File: ./img/logo6.png Graphic file (type png)
-<use ./img/logo6.png>
-Package pdftex.def Info: ./img/logo6.png  used on input line 4.
-(pdftex.def)             Requested size: 614.31628pt x 614.31628pt.
-[46
-
-]
-Underfull \hbox (badness 10000) in paragraph at lines 24--24
-[]\T1/ptm/m/n/12 Yinela Cas-ti-llo
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 35--35
-[]\T1/ptm/m/n/12 Yailet Mo-ra-les
- []
-
-
-Underfull \hbox (badness 1424) in paragraph at lines 35--37
-\T1/ptm/m/n/12 gra-ma Doc-to-ral Cien-cias
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 38--38
-[]\T1/ptm/m/n/12 Profesor Asis-ten-te
- []
-
-
-Underfull \hbox (badness 6094) in paragraph at lines 38--38
-\T1/ptm/m/n/12 (Con 43 años de
- []
-
-
-Underfull \hbox (badness 4531) in paragraph at lines 38--38
-\T1/ptm/m/n/12 ca-ción y 20 años
- []
-
-
-Underfull \hbox (badness 4846) in paragraph at lines 38--38
-\T1/ptm/m/n/12 de ex-pe-rien-cia es-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 46--46
-[]\T1/ptm/m/n/12 Yailet Mo-ra-les
- []
-
-
-Underfull \hbox (badness 1424) in paragraph at lines 46--48
-\T1/ptm/m/n/12 gra-ma Doc-to-ral Cien-cias
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 49--49
-[]\T1/ptm/m/n/12 Odalis Al-ber-to
- []
-
-
-Underfull \hbox (badness 1418) in paragraph at lines 53--53
-[]\T1/ptm/m/n/12 Historia Cul-tu-ral
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 53--53
-\T1/ptm/m/n/12 y Pen-sa-mien-to
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 53--53
-[]\T1/ptm/m/n/12 Silvia Te-re-si-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 53--53
-\T1/ptm/m/n/12 ta Her-nán-dez
- []
-
-
-Underfull \hbox (badness 5189) in paragraph at lines 61--61
-[]\T1/ptm/m/n/12 Lázaro Tió To-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 63--63
-[]\T1/ptm/m/n/12 Estudios de la
- []
-
-
-Underfull \hbox (badness 2158) in paragraph at lines 63--63
-[]\T1/ptm/m/n/12 Rosa El-vi-ra Al-
- []
-
-
-Underfull \hbox (badness 1454) in paragraph at lines 65--65
-[]\T1/ptm/m/n/12 Preparación pa-ra
- []
-
-
-Underfull \vbox (badness 10000) detected at line 68
- []
-
-File: img/logo_umcc2.png Graphic file (type png)
-<use img/logo_umcc2.png>
-Package pdftex.def Info: img/logo_umcc2.png  used on input line 71.
-(pdftex.def)             Requested size: 40.97763pt x 33.43254pt.
-File: img/logo_facultad_fcsh.png Graphic file (type png)
-<use img/logo_facultad_fcsh.png>
-Package pdftex.def Info: img/logo_facultad_fcsh.png  used on input line 71.
-(pdftex.def)             Requested size: 32.29283pt x 32.29283pt.
-
-Package fancyhdr Warning: \headheight is too small (15.0pt): 
-(fancyhdr)                Make it at least 37.78258pt, for example:
-(fancyhdr)                \setlength{\headheight}{37.78258pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-22.78258pt}.
-
-File: ./img/logo6.png Graphic file (type png)
-<use ./img/logo6.png>
-Package pdftex.def Info: ./img/logo6.png  used on input line 71.
-(pdftex.def)             Requested size: 614.31628pt x 614.31628pt.
-[47]
-File: img/logo_umcc2.png Graphic file (type png)
-<use img/logo_umcc2.png>
-Package pdftex.def Info: img/logo_umcc2.png  used on input line 71.
-(pdftex.def)             Requested size: 40.97763pt x 33.43254pt.
-File: img/logo_facultad_fcsh.png Graphic file (type png)
-<use img/logo_facultad_fcsh.png>
-Package pdftex.def Info: img/logo_facultad_fcsh.png  used on input line 71.
-(pdftex.def)             Requested size: 32.29283pt x 32.29283pt.
-
-
-Package fancyhdr Warning: \headheight is too small (15.0pt): 
-(fancyhdr)                Make it at least 37.78258pt, for example:
-(fancyhdr)                \setlength{\headheight}{37.78258pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-22.78258pt}.
-
-File: ./img/logo6.png Graphic file (type png)
-<use ./img/logo6.png>
-Package pdftex.def Info: ./img/logo6.png  used on input line 71.
-(pdftex.def)             Requested size: 614.31628pt x 614.31628pt.
-[48]
-File: img/logo_umcc2.png Graphic file (type png)
-<use img/logo_umcc2.png>
-Package pdftex.def Info: img/logo_umcc2.png  used on input line 80.
-(pdftex.def)             Requested size: 40.97763pt x 33.43254pt.
-File: img/logo_facultad_fcsh.png Graphic file (type png)
-<use img/logo_facultad_fcsh.png>
-Package pdftex.def Info: img/logo_facultad_fcsh.png  used on input line 80.
-(pdftex.def)             Requested size: 32.29283pt x 32.29283pt.
-
-
-Package fancyhdr Warning: \headheight is too small (15.0pt): 
-(fancyhdr)                Make it at least 37.78258pt, for example:
-(fancyhdr)                \setlength{\headheight}{37.78258pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-22.78258pt}.
-
-File: ./img/logo6.png Graphic file (type png)
-<use ./img/logo6.png>
-Package pdftex.def Info: ./img/logo6.png  used on input line 80.
-(pdftex.def)             Requested size: 614.31628pt x 614.31628pt.
-[49]) (./tex_files/variable_5_2.tex
+[32]) (./tex_files/variable_3_3.tex
 File: img/logo_umcc2.png Graphic file (type png)
 <use img/logo_umcc2.png>
 Package pdftex.def Info: img/logo_umcc2.png  used on input line 6.
@@ -2980,14 +2502,18 @@ File: ./img/logo6.png Graphic file (type png)
 <use ./img/logo6.png>
 Package pdftex.def Info: ./img/logo6.png  used on input line 6.
 (pdftex.def)             Requested size: 614.31628pt x 614.31628pt.
-[50]) (./tex_files/variable_5_3.tex) (./tex_files/variable_5_4.tex
+[33]
+Underfull \vbox (badness 10000) detected at line 37
+ []
+
+) (./tex_files/variable_3_4.tex
 File: img/logo_umcc2.png Graphic file (type png)
 <use img/logo_umcc2.png>
-Package pdftex.def Info: img/logo_umcc2.png  used on input line 5.
+Package pdftex.def Info: img/logo_umcc2.png  used on input line 8.
 (pdftex.def)             Requested size: 40.97763pt x 33.43254pt.
 File: img/logo_facultad_fcsh.png Graphic file (type png)
 <use img/logo_facultad_fcsh.png>
-Package pdftex.def Info: img/logo_facultad_fcsh.png  used on input line 5.
+Package pdftex.def Info: img/logo_facultad_fcsh.png  used on input line 8.
 (pdftex.def)             Requested size: 32.29283pt x 32.29283pt.
 
 
@@ -3000,16 +2526,41 @@ Package fancyhdr Warning: \headheight is too small (15.0pt):
 
 File: ./img/logo6.png Graphic file (type png)
 <use ./img/logo6.png>
-Package pdftex.def Info: ./img/logo6.png  used on input line 5.
+Package pdftex.def Info: ./img/logo6.png  used on input line 8.
 (pdftex.def)             Requested size: 614.31628pt x 614.31628pt.
-[51]) (./tex_files/variable_5_5.tex
+[34]
+Underfull \hbox (badness 10000) in paragraph at lines 9--10
+
+ []
+
 File: img/logo_umcc2.png Graphic file (type png)
 <use img/logo_umcc2.png>
-Package pdftex.def Info: img/logo_umcc2.png  used on input line 11.
+Package pdftex.def Info: img/logo_umcc2.png  used on input line 22.
 (pdftex.def)             Requested size: 40.97763pt x 33.43254pt.
 File: img/logo_facultad_fcsh.png Graphic file (type png)
 <use img/logo_facultad_fcsh.png>
-Package pdftex.def Info: img/logo_facultad_fcsh.png  used on input line 11.
+Package pdftex.def Info: img/logo_facultad_fcsh.png  used on input line 22.
+(pdftex.def)             Requested size: 32.29283pt x 32.29283pt.
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 37.78258pt, for example:
+(fancyhdr)                \setlength{\headheight}{37.78258pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-22.78258pt}.
+
+File: ./img/logo6.png Graphic file (type png)
+<use ./img/logo6.png>
+Package pdftex.def Info: ./img/logo6.png  used on input line 22.
+(pdftex.def)             Requested size: 614.31628pt x 614.31628pt.
+[35]))
+File: img/logo_umcc2.png Graphic file (type png)
+<use img/logo_umcc2.png>
+Package pdftex.def Info: img/logo_umcc2.png  used on input line 277.
+(pdftex.def)             Requested size: 40.97763pt x 33.43254pt.
+File: img/logo_facultad_fcsh.png Graphic file (type png)
+<use img/logo_facultad_fcsh.png>
+Package pdftex.def Info: img/logo_facultad_fcsh.png  used on input line 277.
 (pdftex.def)             Requested size: 32.29283pt x 32.29283pt.
 
 
@@ -3022,16 +2573,18 @@ Package fancyhdr Warning: \headheight is too small (15.0pt):
 
 File: ./img/logo6.png Graphic file (type png)
 <use ./img/logo6.png>
-Package pdftex.def Info: ./img/logo6.png  used on input line 11.
+Package pdftex.def Info: ./img/logo6.png  used on input line 277.
 (pdftex.def)             Requested size: 614.31628pt x 614.31628pt.
-[52]
+[36]
+Cap\'{\i }tulo 4.
+(./tex_files/variable_4.tex (./tex_files/variable_4_1.tex
 File: img/logo_umcc2.png Graphic file (type png)
 <use img/logo_umcc2.png>
-Package pdftex.def Info: img/logo_umcc2.png  used on input line 24.
+Package pdftex.def Info: img/logo_umcc2.png  used on input line 17.
 (pdftex.def)             Requested size: 40.97763pt x 33.43254pt.
 File: img/logo_facultad_fcsh.png Graphic file (type png)
 <use img/logo_facultad_fcsh.png>
-Package pdftex.def Info: img/logo_facultad_fcsh.png  used on input line 24.
+Package pdftex.def Info: img/logo_facultad_fcsh.png  used on input line 17.
 (pdftex.def)             Requested size: 32.29283pt x 32.29283pt.
 
 
@@ -3044,16 +2597,18 @@ Package fancyhdr Warning: \headheight is too small (15.0pt):
 
 File: ./img/logo6.png Graphic file (type png)
 <use ./img/logo6.png>
-Package pdftex.def Info: ./img/logo6.png  used on input line 24.
+Package pdftex.def Info: ./img/logo6.png  used on input line 17.
 (pdftex.def)             Requested size: 614.31628pt x 614.31628pt.
-[53]
+[37
+
+]) (./tex_files/variable_4_2.tex)
 File: img/logo_umcc2.png Graphic file (type png)
 <use img/logo_umcc2.png>
-Package pdftex.def Info: img/logo_umcc2.png  used on input line 39.
+Package pdftex.def Info: img/logo_umcc2.png  used on input line 9.
 (pdftex.def)             Requested size: 40.97763pt x 33.43254pt.
 File: img/logo_facultad_fcsh.png Graphic file (type png)
 <use img/logo_facultad_fcsh.png>
-Package pdftex.def Info: img/logo_facultad_fcsh.png  used on input line 39.
+Package pdftex.def Info: img/logo_facultad_fcsh.png  used on input line 9.
 (pdftex.def)             Requested size: 32.29283pt x 32.29283pt.
 
 
@@ -3066,11 +2621,38 @@ Package fancyhdr Warning: \headheight is too small (15.0pt):
 
 File: ./img/logo6.png Graphic file (type png)
 <use ./img/logo6.png>
-Package pdftex.def Info: ./img/logo6.png  used on input line 39.
+Package pdftex.def Info: ./img/logo6.png  used on input line 9.
 (pdftex.def)             Requested size: 614.31628pt x 614.31628pt.
-[54]
-Underfull \hbox (badness 10000) in paragraph at lines 40--42
+[38] (./tex_files/variable_4_3.tex
+Underfull \vbox (badness 10000) detected at line 14
+ []
 
+
+Underfull \vbox (badness 10000) detected at line 33
+ []
+
+File: img/logo_umcc2.png Graphic file (type png)
+<use img/logo_umcc2.png>
+Package pdftex.def Info: img/logo_umcc2.png  used on input line 33.
+(pdftex.def)             Requested size: 40.97763pt x 33.43254pt.
+File: img/logo_facultad_fcsh.png Graphic file (type png)
+<use img/logo_facultad_fcsh.png>
+Package pdftex.def Info: img/logo_facultad_fcsh.png  used on input line 33.
+(pdftex.def)             Requested size: 32.29283pt x 32.29283pt.
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 37.78258pt, for example:
+(fancyhdr)                \setlength{\headheight}{37.78258pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-22.78258pt}.
+
+File: ./img/logo6.png Graphic file (type png)
+<use ./img/logo6.png>
+Package pdftex.def Info: ./img/logo6.png  used on input line 33.
+(pdftex.def)             Requested size: 614.31628pt x 614.31628pt.
+[39]
+Underfull \vbox (badness 10000) detected at line 50
  []
 
 File: img/logo_umcc2.png Graphic file (type png)
@@ -3093,7 +2675,373 @@ File: ./img/logo6.png Graphic file (type png)
 <use ./img/logo6.png>
 Package pdftex.def Info: ./img/logo6.png  used on input line 50.
 (pdftex.def)             Requested size: 614.31628pt x 614.31628pt.
-[55]))
+[40]) (./tex_files/variable_4_4.tex
+Underfull \hbox (badness 10000) in paragraph at lines 16--17
+
+ []
+
+File: img/logo_umcc2.png Graphic file (type png)
+<use img/logo_umcc2.png>
+Package pdftex.def Info: img/logo_umcc2.png  used on input line 22.
+(pdftex.def)             Requested size: 40.97763pt x 33.43254pt.
+File: img/logo_facultad_fcsh.png Graphic file (type png)
+<use img/logo_facultad_fcsh.png>
+Package pdftex.def Info: img/logo_facultad_fcsh.png  used on input line 22.
+(pdftex.def)             Requested size: 32.29283pt x 32.29283pt.
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 37.78258pt, for example:
+(fancyhdr)                \setlength{\headheight}{37.78258pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-22.78258pt}.
+
+File: ./img/logo6.png Graphic file (type png)
+<use ./img/logo6.png>
+Package pdftex.def Info: ./img/logo6.png  used on input line 22.
+(pdftex.def)             Requested size: 614.31628pt x 614.31628pt.
+[41]))
+File: img/logo_umcc2.png Graphic file (type png)
+<use img/logo_umcc2.png>
+Package pdftex.def Info: img/logo_umcc2.png  used on input line 281.
+(pdftex.def)             Requested size: 40.97763pt x 33.43254pt.
+File: img/logo_facultad_fcsh.png Graphic file (type png)
+<use img/logo_facultad_fcsh.png>
+Package pdftex.def Info: img/logo_facultad_fcsh.png  used on input line 281.
+(pdftex.def)             Requested size: 32.29283pt x 32.29283pt.
+
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 37.78258pt, for example:
+(fancyhdr)                \setlength{\headheight}{37.78258pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-22.78258pt}.
+
+File: ./img/logo6.png Graphic file (type png)
+<use ./img/logo6.png>
+Package pdftex.def Info: ./img/logo6.png  used on input line 281.
+(pdftex.def)             Requested size: 614.31628pt x 614.31628pt.
+[42]
+Cap\'{\i }tulo 5.
+(./tex_files/variable_5.tex (./tex_files/variable_5_1.tex
+File: img/logo_umcc2.png Graphic file (type png)
+<use img/logo_umcc2.png>
+Package pdftex.def Info: img/logo_umcc2.png  used on input line 6.
+(pdftex.def)             Requested size: 40.97763pt x 33.43254pt.
+File: img/logo_facultad_fcsh.png Graphic file (type png)
+<use img/logo_facultad_fcsh.png>
+Package pdftex.def Info: img/logo_facultad_fcsh.png  used on input line 6.
+(pdftex.def)             Requested size: 32.29283pt x 32.29283pt.
+
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 37.78258pt, for example:
+(fancyhdr)                \setlength{\headheight}{37.78258pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-22.78258pt}.
+
+File: ./img/logo6.png Graphic file (type png)
+<use ./img/logo6.png>
+Package pdftex.def Info: ./img/logo6.png  used on input line 6.
+(pdftex.def)             Requested size: 614.31628pt x 614.31628pt.
+[43
+
+]
+Underfull \hbox (badness 1406) in paragraph at lines 24--26
+[]|\T1/ptm/m/n/12 Máster en Es-tu-dios His-tó-ri-cos y
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--36
+[]|\T1/ptm/m/n/12 Máster en Edu-ca-ción Su-pe-rior
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--37
+[]\T1/ptm/m/n/12 Profesor Asis-ten-te
+ []
+
+
+Underfull \hbox (badness 6094) in paragraph at lines 37--37
+\T1/ptm/m/n/12 (Con 43 años de
+ []
+
+
+Underfull \hbox (badness 4531) in paragraph at lines 37--37
+\T1/ptm/m/n/12 ca-ción y 20 años
+ []
+
+
+Underfull \hbox (badness 4846) in paragraph at lines 37--37
+\T1/ptm/m/n/12 de ex-pe-rien-cia es-
+ []
+
+
+Underfull \hbox (badness 1253) in paragraph at lines 39--39
+[]|\T1/ptm/m/n/12 Yara An-to-nia Al-fon-so
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 45--47
+[]|\T1/ptm/m/n/12 Máster en Edu-ca-ción Su-pe-rior
+ []
+
+
+Underfull \hbox (badness 1253) in paragraph at lines 50--50
+[]|\T1/ptm/m/n/12 Yara An-to-nia Al-fon-so
+ []
+
+
+Underfull \hbox (badness 1418) in paragraph at lines 52--52
+[]\T1/ptm/m/n/12 Historia Cul-tu-ral
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 52--52
+\T1/ptm/m/n/12 y Pen-sa-mien-to
+ []
+
+
+Underfull \hbox (badness 6542) in paragraph at lines 55--55
+[]|\T1/ptm/m/n/12 María Fe-li-cia Ibá-ñez
+ []
+
+
+Underfull \hbox (badness 2990) in paragraph at lines 57--57
+[]|\T1/ptm/m/n/12 Oscar An-drés Pi-ñei-ra
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 61--61
+[]\T1/ptm/m/n/12 Estudios de la
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 61--61
+[]|\T1/ptm/m/n/12 Rosa El-vi-ra Al-fon-so
+ []
+
+
+Underfull \hbox (badness 1454) in paragraph at lines 63--63
+[]\T1/ptm/m/n/12 Preparación pa-ra
+ []
+
+
+Underfull \hbox (badness 7433) in paragraph at lines 63--63
+[]|\T1/ptm/m/n/12 Luis Or-lan-do Mi-li-án
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 65--65
+[]|\T1/ptm/m/n/12 Ángel Fi-del Lla-nos
+ []
+
+
+Underfull \vbox (badness 10000) detected at line 69
+ []
+
+File: img/logo_umcc2.png Graphic file (type png)
+<use img/logo_umcc2.png>
+Package pdftex.def Info: img/logo_umcc2.png  used on input line 69.
+(pdftex.def)             Requested size: 40.97763pt x 33.43254pt.
+File: img/logo_facultad_fcsh.png Graphic file (type png)
+<use img/logo_facultad_fcsh.png>
+Package pdftex.def Info: img/logo_facultad_fcsh.png  used on input line 69.
+(pdftex.def)             Requested size: 32.29283pt x 32.29283pt.
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 37.78258pt, for example:
+(fancyhdr)                \setlength{\headheight}{37.78258pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-22.78258pt}.
+
+File: ./img/logo6.png Graphic file (type png)
+<use ./img/logo6.png>
+Package pdftex.def Info: ./img/logo6.png  used on input line 69.
+(pdftex.def)             Requested size: 614.31628pt x 614.31628pt.
+[44]
+File: img/logo_umcc2.png Graphic file (type png)
+<use img/logo_umcc2.png>
+Package pdftex.def Info: img/logo_umcc2.png  used on input line 69.
+(pdftex.def)             Requested size: 40.97763pt x 33.43254pt.
+File: img/logo_facultad_fcsh.png Graphic file (type png)
+<use img/logo_facultad_fcsh.png>
+Package pdftex.def Info: img/logo_facultad_fcsh.png  used on input line 69.
+(pdftex.def)             Requested size: 32.29283pt x 32.29283pt.
+
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 37.78258pt, for example:
+(fancyhdr)                \setlength{\headheight}{37.78258pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-22.78258pt}.
+
+File: ./img/logo6.png Graphic file (type png)
+<use ./img/logo6.png>
+Package pdftex.def Info: ./img/logo6.png  used on input line 69.
+(pdftex.def)             Requested size: 614.31628pt x 614.31628pt.
+[45]
+File: img/logo_umcc2.png Graphic file (type png)
+<use img/logo_umcc2.png>
+Package pdftex.def Info: img/logo_umcc2.png  used on input line 84.
+(pdftex.def)             Requested size: 40.97763pt x 33.43254pt.
+File: img/logo_facultad_fcsh.png Graphic file (type png)
+<use img/logo_facultad_fcsh.png>
+Package pdftex.def Info: img/logo_facultad_fcsh.png  used on input line 84.
+(pdftex.def)             Requested size: 32.29283pt x 32.29283pt.
+
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 37.78258pt, for example:
+(fancyhdr)                \setlength{\headheight}{37.78258pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-22.78258pt}.
+
+File: ./img/logo6.png Graphic file (type png)
+<use ./img/logo6.png>
+Package pdftex.def Info: ./img/logo6.png  used on input line 84.
+(pdftex.def)             Requested size: 614.31628pt x 614.31628pt.
+[46]) (./tex_files/variable_5_2.tex) (./tex_files/variable_5_3.tex)
+File: img/logo_umcc2.png Graphic file (type png)
+<use img/logo_umcc2.png>
+Package pdftex.def Info: img/logo_umcc2.png  used on input line 16.
+(pdftex.def)             Requested size: 40.97763pt x 33.43254pt.
+File: img/logo_facultad_fcsh.png Graphic file (type png)
+<use img/logo_facultad_fcsh.png>
+Package pdftex.def Info: img/logo_facultad_fcsh.png  used on input line 16.
+(pdftex.def)             Requested size: 32.29283pt x 32.29283pt.
+
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 37.78258pt, for example:
+(fancyhdr)                \setlength{\headheight}{37.78258pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-22.78258pt}.
+
+File: ./img/logo6.png Graphic file (type png)
+<use ./img/logo6.png>
+Package pdftex.def Info: ./img/logo6.png  used on input line 16.
+(pdftex.def)             Requested size: 614.31628pt x 614.31628pt.
+[47] (./tex_files/variable_5_4.tex) (./tex_files/variable_5_5.tex
+File: img/logo_umcc2.png Graphic file (type png)
+<use img/logo_umcc2.png>
+Package pdftex.def Info: img/logo_umcc2.png  used on input line 2.
+(pdftex.def)             Requested size: 40.97763pt x 33.43254pt.
+File: img/logo_facultad_fcsh.png Graphic file (type png)
+<use img/logo_facultad_fcsh.png>
+Package pdftex.def Info: img/logo_facultad_fcsh.png  used on input line 2.
+(pdftex.def)             Requested size: 32.29283pt x 32.29283pt.
+
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 37.78258pt, for example:
+(fancyhdr)                \setlength{\headheight}{37.78258pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-22.78258pt}.
+
+File: ./img/logo6.png Graphic file (type png)
+<use ./img/logo6.png>
+Package pdftex.def Info: ./img/logo6.png  used on input line 2.
+(pdftex.def)             Requested size: 614.31628pt x 614.31628pt.
+[48]
+File: img/logo_umcc2.png Graphic file (type png)
+<use img/logo_umcc2.png>
+Package pdftex.def Info: img/logo_umcc2.png  used on input line 17.
+(pdftex.def)             Requested size: 40.97763pt x 33.43254pt.
+File: img/logo_facultad_fcsh.png Graphic file (type png)
+<use img/logo_facultad_fcsh.png>
+Package pdftex.def Info: img/logo_facultad_fcsh.png  used on input line 17.
+(pdftex.def)             Requested size: 32.29283pt x 32.29283pt.
+
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 37.78258pt, for example:
+(fancyhdr)                \setlength{\headheight}{37.78258pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-22.78258pt}.
+
+File: ./img/logo6.png Graphic file (type png)
+<use ./img/logo6.png>
+Package pdftex.def Info: ./img/logo6.png  used on input line 17.
+(pdftex.def)             Requested size: 614.31628pt x 614.31628pt.
+[49]
+File: img/logo_umcc2.png Graphic file (type png)
+<use img/logo_umcc2.png>
+Package pdftex.def Info: img/logo_umcc2.png  used on input line 33.
+(pdftex.def)             Requested size: 40.97763pt x 33.43254pt.
+File: img/logo_facultad_fcsh.png Graphic file (type png)
+<use img/logo_facultad_fcsh.png>
+Package pdftex.def Info: img/logo_facultad_fcsh.png  used on input line 33.
+(pdftex.def)             Requested size: 32.29283pt x 32.29283pt.
+
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 37.78258pt, for example:
+(fancyhdr)                \setlength{\headheight}{37.78258pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-22.78258pt}.
+
+File: ./img/logo6.png Graphic file (type png)
+<use ./img/logo6.png>
+Package pdftex.def Info: ./img/logo6.png  used on input line 33.
+(pdftex.def)             Requested size: 614.31628pt x 614.31628pt.
+[50]
+Underfull \hbox (badness 10000) in paragraph at lines 40--42
+
+ []
+
+File: img/logo_umcc2.png Graphic file (type png)
+<use img/logo_umcc2.png>
+Package pdftex.def Info: img/logo_umcc2.png  used on input line 47.
+(pdftex.def)             Requested size: 40.97763pt x 33.43254pt.
+File: img/logo_facultad_fcsh.png Graphic file (type png)
+<use img/logo_facultad_fcsh.png>
+Package pdftex.def Info: img/logo_facultad_fcsh.png  used on input line 47.
+(pdftex.def)             Requested size: 32.29283pt x 32.29283pt.
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 37.78258pt, for example:
+(fancyhdr)                \setlength{\headheight}{37.78258pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-22.78258pt}.
+
+File: ./img/logo6.png Graphic file (type png)
+<use ./img/logo6.png>
+Package pdftex.def Info: ./img/logo6.png  used on input line 47.
+(pdftex.def)             Requested size: 614.31628pt x 614.31628pt.
+[51]
+File: img/logo_umcc2.png Graphic file (type png)
+<use img/logo_umcc2.png>
+Package pdftex.def Info: img/logo_umcc2.png  used on input line 61.
+(pdftex.def)             Requested size: 40.97763pt x 33.43254pt.
+File: img/logo_facultad_fcsh.png Graphic file (type png)
+<use img/logo_facultad_fcsh.png>
+Package pdftex.def Info: img/logo_facultad_fcsh.png  used on input line 61.
+(pdftex.def)             Requested size: 32.29283pt x 32.29283pt.
+
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 37.78258pt, for example:
+(fancyhdr)                \setlength{\headheight}{37.78258pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-22.78258pt}.
+
+File: ./img/logo6.png Graphic file (type png)
+<use ./img/logo6.png>
+Package pdftex.def Info: ./img/logo6.png  used on input line 61.
+(pdftex.def)             Requested size: 614.31628pt x 614.31628pt.
+[52]))
 File: img/logo_umcc2.png Graphic file (type png)
 <use img/logo_umcc2.png>
 Package pdftex.def Info: img/logo_umcc2.png  used on input line 285.
@@ -3115,17 +3063,17 @@ File: ./img/logo6.png Graphic file (type png)
 <use ./img/logo6.png>
 Package pdftex.def Info: ./img/logo6.png  used on input line 285.
 (pdftex.def)             Requested size: 614.31628pt x 614.31628pt.
-[56] (./tex_files/anexo.tex
+[53] (./tex_files/anexo.tex
 Underfull \vbox (badness 10000) detected at line 49
  []
 
 File: img/logo_umcc2.png Graphic file (type png)
 <use img/logo_umcc2.png>
-Package pdftex.def Info: img/logo_umcc2.png  used on input line 106.
+Package pdftex.def Info: img/logo_umcc2.png  used on input line 103.
 (pdftex.def)             Requested size: 40.97763pt x 33.43254pt.
 File: img/logo_facultad_fcsh.png Graphic file (type png)
 <use img/logo_facultad_fcsh.png>
-Package pdftex.def Info: img/logo_facultad_fcsh.png  used on input line 106.
+Package pdftex.def Info: img/logo_facultad_fcsh.png  used on input line 103.
 (pdftex.def)             Requested size: 32.29283pt x 32.29283pt.
 
 Package fancyhdr Warning: \headheight is too small (15.0pt): 
@@ -3137,9 +3085,9 @@ Package fancyhdr Warning: \headheight is too small (15.0pt):
 
 File: ./img/logo6.png Graphic file (type png)
 <use ./img/logo6.png>
-Package pdftex.def Info: ./img/logo6.png  used on input line 106.
+Package pdftex.def Info: ./img/logo6.png  used on input line 103.
 (pdftex.def)             Requested size: 614.31628pt x 614.31628pt.
-[57
+[54
 
 ])
 File: img/logo_umcc2.png Graphic file (type png)
@@ -3163,7 +3111,7 @@ File: ./img/logo6.png Graphic file (type png)
 <use ./img/logo6.png>
 Package pdftex.def Info: ./img/logo6.png  used on input line 291.
 (pdftex.def)             Requested size: 614.31628pt x 614.31628pt.
-[58] (./acreditacion.aux
+[55] (./acreditacion.aux
 LaTeX Info: Redefining \sptext on input line 34.
 LaTeX Info: Redefining \. on input line 34.
 LaTeX Info: Redefining \% on input line 34.
@@ -3175,22 +3123,22 @@ Package logreq Info: Writing requests to 'acreditacion.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 28471 strings out of 481190
- 523747 string characters out of 5913951
- 1275717 words of memory out of 5000000
- 44700 multiletter control sequences out of 15000+600000
+ 28548 strings out of 479304
+ 525577 string characters out of 5869779
+ 1286992 words of memory out of 5000000
+ 45015 multiletter control sequences out of 15000+600000
  426180 words of font info for 53 fonts, out of 8000000 for 9000
- 40 hyphenation exceptions out of 8191
- 102i,17n,102p,1826b,2229s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 1141 hyphenation exceptions out of 8191
+ 102i,17n,102p,1826b,2197s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
 e/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-
 dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type
 1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utm
 ri8a.pfb>
-Output written on acreditacion.pdf (59 pages, 887681 bytes).
+Output written on acreditacion.pdf (56 pages, 885154 bytes).
 PDF statistics:
- 490 PDF objects out of 1000 (max. 8388607)
- 409 compressed objects within 5 object streams
- 103 named destinations out of 1000 (max. 500000)
+ 476 PDF objects out of 1000 (max. 8388607)
+ 399 compressed objects within 4 object streams
+ 100 named destinations out of 1000 (max. 500000)
  267 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -140,12 +140,18 @@
 \newcommand{\mc}[3]{\multicolumn{#1}{#2}{#3}}
 % Formateo de la presentacion del titulo de cada capítulo
 \titleformat{\chapter}[hang] 
-{\fontsize{14pt}{14pt}\bfseries}{\chaptertitlename\ \thechapter:}{0.5em}{} 
+{\fontsize{14pt}{14pt}\bfseries}{\chaptertitlename\ \thechapter:}{0.1em}{}
+\titlespacing*{\chapter}{0pt}{0pt}{15pt} 
+\titlespacing*{\section}{0pt}{5pt}{5pt} 
 
 %Quitar el margen a la primera línea de los párrafos
 \setlength{\parindent}{0in}
 
 %Formato de las secciones
+
+
+
+
 \titleformat{\section}{\normalfont\fontsize{12pt}{12pt}\bfseries}{\thesection}{1em}{}
 \titleformat{\subsection}{\normalfont\fontsize{12pt}{12pt}\bfseries}{\thesubsection}{1em}{}
 \titleformat{\subsubsection}{\normalfont\fontsize{12pt}{12pt}\bfseries}{\thesubsubsection}{1em}{}
