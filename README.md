@@ -1,1 +1,0 @@
-# acreditacion_gscd
